@@ -89,6 +89,51 @@
 						"extraType": "image",
 						"extraLink": "https://imag.malavida.com/qa-fs/patches-available-for-a-game-1283.jpg",
 						"extraUrl": ""
+					},
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "",
+						"text": "If you are not very clear about what exactly that patch does, tap on its name, a description will open with the features and enhancements it provides to the game.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/description-of-a-patch-1283.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "",
+						"text": "Back in the previous game options window, at the bottom, you have some additional settings classified under Features. Some of them, like the GFX Tool and Game Shortcut, in this case, open new option menus.GFX Tool is capable of modifying aspects of the game related to graphics and interface, letting you modify the resolution, graphics performance, FPS, anti-aliasing, styles, shadows, or use of the GPU to make the game run. Once the settings are made, tap Save at the bottom to save them.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/graphics-settings-options-1283.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "",
+						"text": "Graphics settings options Game Shortcut just does that, creating a shortcut to the game on your desktop. You can do this by tapping on Add Automatically, or by dragging and dropping the visible icon in the pop-up window.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/creating-a-shortcut-1283.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "",
+						"text": "Other options are configurable through a slider, such as Game Booster or Block Calls and Banners, both with quite descriptive names that require little explanation.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/sliding-settings-1283.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "",
+						"text": "When the download of the patches you want is completed and you have finished configuring the rest of the options, you can close the game and reopen it. If everything has worked correctly, your cheats should be available.",
+						"extraType": "",
+						"extraLink": "",
+						"extraUrl": ""
 					}
 				]
 			},
