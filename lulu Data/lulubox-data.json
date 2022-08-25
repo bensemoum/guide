@@ -45,14 +45,14 @@
 		"postAdShowAfter" : 3,
 		"SliderList" : [
 			{
-				"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+				"image": "https://bensemoum.github.io/guide/lulu%20Data/img/img9.jpeg",
 				"title" : "test1",
 				"text" : "text1",
 				"buttonText" : "button",
 				"buttonUrl" : "https://www.google.com"
 			},
 			{
-				"image": "https://usercontent2.hubstatic.com/6961601.jpg",
+				"image": "https://bensemoum.github.io/guide/lulu%20Data/img/img9.jpeg",
 				"title" : "test2",
 				"text" : "text2",
 				"buttonText" : "button2",
@@ -75,10 +75,19 @@
 					{
 						"adNetwork": "facebook",
 						"adType": "banner",
-						"title": "para2",
+						"title": "",
 						"text": "Lulubox is an easy to use patch or game modification app. When you open it, you will find a Home screen where you can see the icons of the different games that are compatible with the App. Simply scroll through the list and tap on any of the games available.",
-						"extraType": "video",
-						"extraLink": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/luluboxs-home-screen-1283.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "",
+						"text": "If you tap on any of the games, you will see a list of options. On the one hand, you have the so-called Game Tools, that are specific patches for certain functions related to that particular game. Just tap on the down arrow to download and apply the patch.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/patches-available-for-a-game-1283.jpg",
 						"extraUrl": ""
 					}
 				]
