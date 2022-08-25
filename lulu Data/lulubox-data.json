@@ -143,19 +143,37 @@
 					{
 						"adNetwork": "facebook",
 						"adType": "banner",
-						"title": "para1",
-						"text": "hghghghjghghv gyyfyfyuyufyu ukfyfyifyiufyufy ugiyugfgiyugfgyugyugiug hgfifiufgiuyfiyuf fiyfy",
+						"title": "How to add games to Lulubox",
+						"text": "The app comes with a few compatible games as standard, but if you want, you can add other games you have installed. At the bottom of the Home screen, you will see an icon with the + symbol and the legend Add: tap on it.",
 						"extraType": "image",
-						"extraLink": "https://imagnet.space/apps/bilal/app01/img/1.png",
-						"extraUrl": "https://www.google.com"
+						"extraLink": "https://imag.malavida.com/qa-fs/add-button-to-add-games-and-apps-1283.jpg",
+						"extraUrl": ""
 					},
 					{
 						"adNetwork": "admob",
 						"adType": "banner",
-						"title": "para2",
-						"text": "hghghghjghghv gyyfyfyuyufyu ukfyfyifyiufyufy ugiyugfgiyugfgyugyugiug hgfifiufgiuyfiyuf fiyfy",
-						"extraType": "video",
-						"extraLink": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+						"title": "",
+						"text": "Choose the game you want from those installed. You can also add other types of non-game apps: some features of Lulubox are universal and can be used with all types of apps.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/select-a-new-game-to-patch-1283.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "When you have done so, the icon of the new game or app will be available in the Lulubox Home, and you will be able to access its options. Once there, you may not find specific patches for the game you have added to the list because not all games can be modified in this way with Lulubox. What you will have available are some universal options, such as Game Booster, the creation of shortcuts, or the blocking of calls and banners.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/modifications-of-the-new-game-or-app-1283.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "Lulubox does not hide any other secret, it is a very simple and straightforward application when it comes to doing its job. You look for the game or add it, enter its options, download the patches, and enjoy them immediately.However, be careful: this type of apps can cost you unwanted banning depending on the use you make of them. You have to take into account that some of the improvements that can be used by patching games are not completely legal since they involve skipping the integrated purchases offered by the developers, which are the only way they can get a benefit for the work they have done.The patches or plugins have been developed by other users and then shared with Lulubox. In other words, the app does not modify the games by itself, but it resorts to user MODs.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/modifications-of-the-new-game-or-app-1283.jpg",
 						"extraUrl": ""
 					}
 				]
