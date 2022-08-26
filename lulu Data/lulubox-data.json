@@ -138,7 +138,7 @@
 				]
 			},
 			{
-				"image": "https://imagnet.space/apps/bilal/app01/img/1.png",
+				"image": "https://bensemoum.github.io/guide/lulu%20Data/img/2.jpg",
 				"PostDetail" : [
 					{
 						"adNetwork": "facebook",
@@ -174,6 +174,47 @@
 						"text": "Lulubox does not hide any other secret, it is a very simple and straightforward application when it comes to doing its job. You look for the game or add it, enter its options, download the patches, and enjoy them immediately.However, be careful: this type of apps can cost you unwanted banning depending on the use you make of them. You have to take into account that some of the improvements that can be used by patching games are not completely legal since they involve skipping the integrated purchases offered by the developers, which are the only way they can get a benefit for the work they have done.The patches or plugins have been developed by other users and then shared with Lulubox. In other words, the app does not modify the games by itself, but it resorts to user MODs.",
 						"extraType": "image",
 						"extraLink": "https://imag.malavida.com/qa-fs/modifications-of-the-new-game-or-app-1283.jpg",
+						"extraUrl": ""
+					}
+				]
+			},
+			{
+				"image": "https://imag.malavida.com/qa/qa-lulubox-1473.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "How to Fix Lulubox Error",
+						"text": "When we use Lulubox, we can have different problems that could impede its correct functioning. We review the possible existing solutions and the verifications to be made to avoid common failures.Lulubox is a game modification application that might present errors for different reasons. We will try to review some of the most common situations that cause problems for its users and try to find a possible solution.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa/qa-lulubox-1473.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "Installation and operation problems",
+						"text": "If you are having problems installing and opening Lulubox, the first thing you should check is that your operating system has the minimum version of Android required, Android 4.4. Otherwise, the application will not be able to run correctly. To do so, simply visit the information menu of your device.Also, check that you have enough storage space available. If you have all your storage full, it will be impossible to get the app installed.You have a couple of generic resources applied to the operating system that could also be useful to you. Locate the Lulubox icon in your app menu, tap and hold it for a few seconds until a pop-up menu appears. Tap on the i of information to access the Android section, where all the information on this app is collected.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/access-the-info-section-1473.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "Once there, tap on Storage.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/access-the-storage-section-1473.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "Tap on Clear Cache to clear the cache used up to that moment in the operation of Lulubox. Also, try clearing the data from the app by tapping Clear Data, which will leave it as if it were first installed.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/press-clear-data-and-clear-cache-1473.jpg",
 						"extraUrl": ""
 					}
 				]
