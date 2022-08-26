@@ -218,6 +218,151 @@
 						"extraUrl": ""
 					}
 				]
+			},
+			{
+				"image": "https://bensemoum.github.io/guide/lulu%20Data/img/3.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "How to update Lulubox",
+						"text": "Having the latest version of any app is always recommended for safety, efficiency, and features, only then, you will be updated.Updating Lulubox is as simple as updating any other Android app. The first thing to do is to check that the version you have installed is out of date. Once this is done, you will be able to upgrade to the latest version.To start, find the Lulubox icon in your app menu. Hold down the icon and a menu will be displayed with the option App info, which takes you directly to the Android settings window that gathers all the information related to this app.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa/qa-lulubox-1281.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "Scroll to the bottom of the window and write down the installed version number, which is visible there.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/access-the-info-sectio-1281.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "Then, visit our website dedicated to Lulubox and check which version we offer for download. If the version we offer and the one you have installed are the same, you do not need to update the app since you already have the latest version.If, on the other hand, we offer a higher version than yours, it is time to upgrade. Tap on the green Download button that you will see on our website dedicated to Lulubox, or tap that button at the end of this guide. Do the same in the following windows where you see that green button. Finally, it will start downloading the file to your device. When the transfer is complete, you will be able to open the file in two ways: either from the notification of the completed download from the operating system or by searching for the file in your download folder.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/check-the-version-installed-1281.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "A window will launch asking you if you want to install an update on the existing app. Tap Install at the bottom right.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/launch-the-installation-of-the-new-version-1281.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "When the installation of the new version is complete, you can tap Open to open it or use the shortcut icon in your menu of installed apps.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/press-install-to-start-the-process-1281.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "There is also a second option to check if we have the latest version available. Go to the main window of Lulubox and click on the cog icon at the top right.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/pressing-open-will-open-the-app-1281.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "In the options menu, tap on Check for Updates.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/access-luluboxs-settings-1281.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "After a few seconds, you will receive a message on the screen alerting you of your status.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/press-here-to-check-if-theres-a-new-version-1281.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "However, this process is not always totally effective, so we recommend that you check manually, which is more reliable.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/message-of-updated-version-1281.jpg",
+						"extraUrl": ""
+					}
+				]
+			},
+			{
+				"image": "https://bensemoum.github.io/guide/lulu%20Data/img/4.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "banner",
+						"title": "What games are compatible with Lulubox",
+						"text": "To use Lulubox in all its splendor, you will need to have installed some of the games compatible with the app. But which games are they? Here is the list of compatible games.Although Lulubox started as an app that had very few compatible games, over time, the list of games has grown. Although they are still only a couple of dozen games. On the other hand, it is possible to add other games to the app, and while they will not have specific patches, the regular features provided by Lulubox can still be used on them.During version 4.8.8 of the app, which is when we wrote this guide, we counted up to 21 different games compatible:Multiple Space, Free FIRE, Carrom Pool, 8 Ball Pool, PUBG M, Subway Surfers, Candy Crush, Clash of Clans, Temple Run 2, Need for Speed No Limits, Hill Climb Racing, Crazy Juice...",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa/qa-lulubox-1291.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "However, Lulubox has a feature that lets us add new games and other apps to the list. They may not have specific patches available, but they can use universal features provided by the app.In the main interface, look for the Add icon at the end of the window and tap on it.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/default-list-of-games-compatible-with-lulubox-1291.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "A menu will open with all the apps and games installed on the device. Choose the one you want to add to the list.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/choose-a-new-game-to-add-1291.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "From that moment, the chosen app or game will be available on the Lulubox menu. Tap on its icon.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/minecraft-added-to-lulubox-1291.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "Now, you can activate the functions that are supported, for example, speed up the app or block calls and ads.",
+						"extraType": "image",
+						"extraLink": "https://imag.malavida.com/qa-fs/options-available-for-added-games-1291.jpg",
+						"extraUrl": ""
+					},
+					{
+						"adNetwork": "admob",
+						"adType": "banner",
+						"title": "",
+						"text": "As you see, the list of games with specific patches is not extensive, but the basic functions of Lulubox can be applied to different games and apps.",
+						"extraType": "",
+						"extraLink": "",
+						"extraUrl": ""
+					}
+				]
 			}
 		]
 	}
