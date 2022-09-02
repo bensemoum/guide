@@ -2,7 +2,7 @@
   "data" : [
  {
   "html" : "https://bensemoum.github.io/guide/13.html",
-  "img" : "",
+  "img" : "https://www.notionwizard.com/wp-content/uploads/2022/05/Speed-Test-Illustration-Graphic.png",
   "name" : "test"
   },
   {
@@ -59,7 +59,12 @@
   "html" : "https://bensemoum.github.io/guide/Final%20Words.html",
   "img" : "https://bloggingdept.in/wp-content/uploads/2021/04/my11circle-app-2.png",
   "name" : "Final Words"
-    }
+    },
+    {
+  "html" : "https://bensemoum.github.io/guide/13.html",
+  "img" : "https://www.notionwizard.com/wp-content/uploads/2022/05/Speed-Test-Illustration-Graphic.png",
+  "name" : "test"
+  }
   
     ]
   }
