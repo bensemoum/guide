@@ -3,7 +3,7 @@
         {
           "activate_ads" : "true",
           "network" : "admob",
-          "admob_ban" : "",
+          "admob_ban" : "ca-app-pub-2755687503891625/1926863878",
           "admob_native" : "ca-app-pub-2755687503891625/5882382767",
           "admob_int" : "ca-app-pub-2755687503891625/3813826464",
           "yandex_banner" : "R-M-DEMO-320x50",
