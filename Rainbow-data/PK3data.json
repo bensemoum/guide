@@ -29,40 +29,40 @@
     ],
     "data" : [
         {
-          "name" : "Viktor",
-          "theme" : "Arcane",
+          "name" : "Blue Rainbow",
+          "theme" : "Rainbow Friends",
           "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Viktor_OriginalSquare.png",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
         {
-          "name" : "Smeech",
-          "theme" : "Arcane",
+          "name" : "Green Rainbow",
+          "theme" : "Rainbow Friends",
           "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/5/52/SmeechSquare.png",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
         {
-          "name" : "Salo",
-          "theme" : "Arcane",
+          "name" : "Orange Rainbow",
+          "theme" : "Rainbow Friends",
           "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/8/85/SaloSquare.png/revision/latest/scale-to-width-down/300?cb=20220202082508",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
         {
-          "name" : "Margot",
-          "theme" : "Arcane",
+          "name" : "Purple Rainbow",
+          "theme" : "Rainbow Friends",
           "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/8/80/MargotSquare.png/revision/latest/scale-to-width-down/300?cb=20220210181953",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
         {
-          "name" : "Heimerdinger",
-          "theme" : "Arcane",
+          "name" : "Red Rainbow",
+          "theme" : "Rainbow Friends",
           "img" : "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Heimerdinger_OriginalSquare.png/revision/latest/scale-to-width-down/300?cb=20150402220126",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
