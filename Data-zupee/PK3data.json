@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@bensemoum 
-bensemoum
-/
-guide
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-guide/Data-zupee/PK3data.json
-@bensemoum
-bensemoum Update PK3data.json
-Latest commit ef6667b 2 minutes ago
- History
- 1 contributor
-361 lines (346 sloc)  24.5 KB
 
 {
     "config" : [
@@ -389,18 +361,3 @@ Latest commit ef6667b 2 minutes ago
         }
     ]
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have unread notifications
