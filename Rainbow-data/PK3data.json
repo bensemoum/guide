@@ -32,8 +32,8 @@
           "name" : "Blue Rainbow",
           "theme" : "Rainbow Friends",
           "img" : "https://tryhardguides.com/wp-content/uploads/2022/08/blue-rainbow-friend.jpg",
-          "voice" : "",
-          "video" : "",
+          "voice" : "https://bensemoum.github.io/guide/Rainbow-data/Cookie%20Monster.mp3",
+          "video" : "https://bensemoum.github.io/guide/Rainbow-data/Cookie%20Monster.mp3",
           "live" : "https://bensemoum.github.io/guide/Rainbow-data/Cookie%20Monster.mp3"
         },
         {
@@ -48,7 +48,7 @@
           "name" : "Orange Rainbow",
           "theme" : "Rainbow Friends",
           "img" : "https://tryhardguides.com/wp-content/uploads/2022/08/orange-rainbow-friend.jpg",
-          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "voice" : "https://bensemoum.github.io/guide/Rainbow-data/SnapTik_7129943384357129518.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
@@ -56,7 +56,7 @@
           "name" : "Purple Rainbow",
           "theme" : "Rainbow Friends",
           "img" : "https://tryhardguides.com/wp-content/uploads/2022/08/purple-rainbow-friend.jpg",
-          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "voice" : "https://bensemoum.github.io/guide/Rainbow-data/SnapTik_7129943384357129518.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
@@ -64,7 +64,7 @@
           "name" : "Red Rainbow",
           "theme" : "Rainbow Friends",
           "img" : "https://tryhardguides.com/wp-content/uploads/2022/08/red-rainbow-friend.jpg",
-          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "voice" : "https://bensemoum.github.io/guide/Rainbow-data/SnapTik_7129943384357129518.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
