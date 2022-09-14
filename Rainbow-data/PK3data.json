@@ -32,15 +32,15 @@
           "name" : "Blue Rainbow",
           "theme" : "Rainbow Friends",
           "img" : "https://tryhardguides.com/wp-content/uploads/2022/08/blue-rainbow-friend.jpg",
-          "voice" : "https://bensemoum.github.io/guide/Rainbow-data/Cookie%20Monster.mp3",
-          "video" : "https://bensemoum.github.io/guide/Rainbow-data/SnapTik_7129943384357129518.mp4",
-          "live" : "https://bensemoum.github.io/guide/Rainbow-data/SnapTik_7129943384357129518.mp4"
+          "voice" : "",
+          "video" : "",
+          "live" : "https://bensemoum.github.io/guide/Rainbow-data/Cookie%20Monster.mp3"
         },
         {
           "name" : "Green Rainbow",
           "theme" : "Rainbow Friends",
           "img" : "https://tryhardguides.com/wp-content/uploads/2022/08/green-rainbow-friend.jpg",
-          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
+          "voice" : "https://bensemoum.github.io/guide/Rainbow-data/SnapTik_7129943384357129518.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
