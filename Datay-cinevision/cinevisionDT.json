@@ -1,8 +1,8 @@
 {
     "config" : [
         {
-            "activate_vpn" : "true",
-            "activate_force_vpn" : "true",
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
             "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "529364450",
@@ -192,49 +192,49 @@
     
     "data" : [
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
-            "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
-            "img2" : "https://i.gifer.com/BCyK.gif",
-            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
-            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Is Cine Vision Safe?",
+            "img1" : "https://bensemoum.github.io/guide/cine-vision-Data/cenivision.webp",
+            "img2" : "https://iptvwire.com/wp-content/uploads/2022/06/cine-vision-v4-1.png",
+            "part1" : "Before installing this, I first want to scan the official Android APK installation file with VirusTotal. Here is the screenshot of the scan results.",
+            "part2" : "VirusTotal did not find any suspicious files pertaining to viruses/malware within the Cine Vision V4 APK file. However, we should always protect ourselves when streaming content from this 3rd party app. We strongly recommend using a VPN with these unverified streaming apps. "
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/564x/34/1b/36/341b3694c814463a27fcd75f5027f47f.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "urlimg" : "",
+            "name" : "Cine Vision Highlights",
+            "img1" : "https://bensemoum.github.io/guide/cine-vision-Data/cenivision.webp",
+            "img2" : "https://image.winudf.com/v2/image1/Y29tLmVhc3lmc3ZmLmZpbG1lc2NpbmV2aXNpb252NV9zY3JlZW5fNF8xNjUyMTMyODQ3XzA2Mw/screen-4.jpg?fakeurl=1&type=.webp",
+            "part1" : " - 100% free streaming app \n - Thousands of free movies &amp; TV series \n - Optimized for Android mobile devices &amp; tablets \n - VPN friendly \n - Caters to Spanish-speaking individuals \n - Compatible with Firestick/Fire TV and Android devices \n - Easy to install APK on Downloader \n - Settings configuration \n - Favorites manager ",
+            "part2" : ""
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "How to Install Cine Vision on Firestick/Android",
+            "img1" : "https://bensemoum.github.io/guide/cine-vision-Data/cenivision.webp",
+            "img2" : "https://image.winudf.com/v2/image1/Y29tLmVhc3lmc3ZmLmZpbG1lc2NpbmV2aXNpb252NV9zY3JlZW5fNF8xNjUyMTMyODQ3XzA2Mw/screen-4.jpg?fakeurl=1&type=.webp",
+            "part1" : "Cine Vision APK is available for installation on several popular streaming devices. This includes the Amazon Firestick, Fire TV, NVIDIA Shield, Android TV Boxes, Chromecast, Android phones, tablets, and any device running the Android operating system. To install this APK you must first install Downloader on your device. ",
+            "part2" : "After installing the Downloader app, follow the steps below for installing Cine Vision on Firestick/Fire TV and Android devices. This streaming app can also be found within various codes on Applinked, Unlinked, or FileSynced. \n 1 - Launch the Downloader app. \n 2 - Enter the following Downloader code – 553404 and click Go. \n 3 - Wait for the app to download. \n 4 - Click Install. \n 5 - Click Open or Done. \n 6 - Launch the application and if this message appears click OK. \n 7 - That’s it! You have successfully installed Cine Vision V4 APK on your Firestick. \n Enjoy! Continue reading below for more features and information."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/d8/0c/f3/d80cf3099aac52b695072918fe2d612a.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Warning! Protect Yourself With Surfshark VPN",
+            "img1" : "https://bensemoum.github.io/guide/cine-vision-Data/cenivision.webp",
+            "img2" : "https://image.winudf.com/v2/image1/Y29tLmVhc3lmc3ZmLmZpbG1lc2NpbmV2aXNpb252NV9zY3JlZW5fNF8xNjUyMTMyODQ3XzA2Mw/screen-4.jpg?fakeurl=1&type=.webp",
+            "part1" : "Most cord-cutters use a VPN and rightfully so. Some IPTV services and app developers have been tied to organized crime and you don't want your identifying IP Address in their hands. Without a VPN, your IP Address is being logged. Your IP Address points back to your location and identity which compromises both your privacy and security.",
+            "part2" : "A VPN will provide you with an anonymous connection to the Internet. This will prevent IPTV developers, Internet provider, government agencies, and any 3rd party from logging what you're accessing online. The most popular VPN among cord-cutters is Surfshark due to their blazing fast speeds and zero log policy. It's important to use a VPN that is fast since we are streaming large HD files. Its also crucial to find one that keeps no logs of what their subscribers access while online. Setting up Surfshark on your streaming device is simple! Step 1 Register for an Surfshark VPN account by clicking the link below. \n Step 2 - Go to Find and then click the search icon on your Firestick, Fire TV, or Fire TV Cube. You may also find the Surfshark VPN App in the Google Play Store for those of you who are using Android TV Boxes, phones, and tablets. \n Step 3 - Type Surfshark and then click the Surfshark VPN option that appears. \n Step 4 - Click the Surfshark icon under Apps & Games. \n Step 5 - Click Download. \n Step 6 - Click Open. \n Step 7 - Click Log in. \n Step 8 - Enter your username and password to login. Your username is the email that you used to register for Surfshark service with and your password is automatically generated and emailed to you. \n Step 9 – Click the Fastest location option. \n Step 10 – Click OK for Connection request if it appears. \n Step 11 – You will notice that your IP Address changes along with location of connection. You are now operating anonymously through your device. \n Click the Home Button on your remote and the VPN will remain running in the background. Congratulations! You are now protected by Surfshark VPN which means everything that you stream or access through your Firestick or Android TV Box is hidden from the rest of the world. If you ever need to stop the VPN service, simply re-launch the application and click the DISCONNECT button. "
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/ce/89/3c/ce893c542e3462afcc0323d8e4213009.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Cine Vision – Features & Details",
+            "img1" : "https://bensemoum.github.io/guide/cine-vision-Data/cenivision.webp",
+            "img2" : "https://iptvwire.com/wp-content/uploads/2022/06/cine-vision-v4-2.jpg",
+            "part1" : "Cine Vision V4 is a popular streaming app for movies, TV, and more. The main categories within this app include Movies, TV Shows, Documentaries, and more. ",
+            "part2" : "Overall, Cine Vision V4 is an excellent free streaming app that provides hundreds of VOD options for movies, TV shows, documentaries, and more."
         },
         {
             "url" : "https://www.ted.com/",
