@@ -1,0 +1,276 @@
+{
+    "config" : [
+        {
+            "activate_vpn" : "true",
+            "activate_force_vpn" : "true",
+            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
+            "vpn_user" : "freeopenvpn",
+            "vpn_password" : "529364450",
+
+            "int_interval" : 5,
+            "activate_ads" : "true",
+            "activate_steps" : "false",
+            "activate_step_email" : "false",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "admob",
+
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-1820435-2",
+            "yandex_int" : "R-M-1820435-3",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+
+            "iron_source_key": "12c959ebd",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },{
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "bg" : "#FBBF24"
+        },{
+            "active" : "true",
+            "name" : "spinner",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "bg" : "#A3E635"
+        },{
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "bg" : "#38BDF8"
+        },{
+            "active" : "true",
+            "name" : "questions",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "bg" : "#2DD4BF"
+        },{
+            "active" : "true",
+            "name" : "quiz",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "bg" : "#4ADE80"
+        },{
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "bg" : "#2196F3"
+        },{
+            "active" : "true",
+            "name" : "rate",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "bg" : "#3F51B5"
+        },{
+            "active" : "true",
+            "name" : "more",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
+            "bg" : "#673AB7"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Hypercasual",
+            "orientation" : "1"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        }
+
+    ],
+    
+    "scratch" : [
+        {
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
+        },{
+            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
+        },{
+            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
+        },{
+            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
+        },{
+            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
+        }
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
+        },
+        {
+            "name" : "",
+            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
+        }
+    ],
+    
+    "data" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "What is a Free Fire Skin?",
+            "img1" : "https://www.techwhoop.com/wp-content/uploads/2022/02/Garena-free-fire-skins.png",
+            "img2" : "",
+            "part1" : "Skins are basically cosmetic in-game items that add a unique appearance to your character or weapon without affecting you. They’re purely for aesthetics, but in a game like Free Fire where every player is trying to look unique & attractive, even the smallest addition to the character or weapon skin can be significant.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "TWhat are the different types of free fire skins?",
+            "img1" : "https://www.mrtechsonu.com/wp-content/uploads/2022/07/FREE-FIRE-SKIN-768x415.jpg",
+            "img2" : "https://www.mrtechsonu.com/wp-content/uploads/2022/07/free-fire-character-skin-ff-skin-768x415.jpg",
+            "part1" : "There are many different skins available in Free Fire like Weapons, Grenades Loot boxes, Bags, parachutes, Gloo wall, and many more. You can obtain them by spending money on the in-game store or completing certain tasks. Some skins are only available for a limited time, so you have to act fast to get your hands on them.",
+            "part2" : "One of the most popular free fire skin types is the character skin. These skins change a character’s appearance, and they usually come with some additional animations or 3D effects. They don’t affect character stats in any way, but they can still give players a psychological edge over their opponents. \n Another type of skin is weapon skin. These skins alter the appearance of a player’s weapons and can sometimes change the sound effects of the firing. \n Of course, not all skins are created equal. Some of them are very rare and are more valuable than others. The most iconic skins in Free Fire are usually only available for a limited time, so you have to act fast to get your hands on the famous free fire skin."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Why do you need to use special free fire skins?",
+            "img1" : "https://www.mrtechsonu.com/wp-content/uploads/2022/07/free-fire-character-skin-ff-skin-768x415.jpg",
+            "img2" : "",
+            "part1" : "Free fire skins are one of the best things that you can use in Free Fire. Not only do they make you look like a pro player, but they also increase the damage of your weapons and give you a better chance of winning the game. In addition, skins help to gain more popularity and likes, which can inspire other players to send you a friend request. So if you’re looking to get ahead of your competitors then using the awesome skins can be one of the great choices.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "How to use the free fire skin generator app?",
+            "img1" : "https://www.techwhoop.com/wp-content/uploads/2022/02/Garena-free-fire-skins.png",
+            "img2" : "",
+            "part1" : "-First, Go to Play Store and search for it – FFF FF Skin Tool, Elite Pass, or Download Free Fire Skin Generator Tool from here. \n -Then copy your character ID / Free Fire in-game name from the account. \n -Now, open the ff Skin Generator app. \n -Create an account using your mobile number. \n -Choose from 4 options: Pro Dress, Gun Skins, Rare Emotions, and Trending on the homepage. \n -If you want to generate skins, select the Gun Skins option. \n -Here you will again see four options for skin generation. \n -Select the first one to generate skins in Free Fire. \n -Now, the app will load the files required for skin creation. \n -Once the files are loaded, click the Activate Now button in the app. \n -Now, allow all the permissions asked by this app \n -After that, the generator will automatically generate some free skins for your account. \n -Open the Free Fire account and check if any free skin is created \n -If you don’t see it, wait a while to get free fire skin in your account",
+            "part2" : "Note: This free fire skin generator tool has over 10 lakh downloads, but it is a third-party app so we cannot be responsible if you do not receive any skins. It’s not in our hands and that falls on the developers of said App!"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Best ways to get free fire skins",
+            "img1" : "https://www.mrtechsonu.com/wp-content/uploads/2022/07/free-fire-all-skin-768x415.jpg",
+            "img2" : "",
+            "part1" : "Apart from the free fire skin generator app, there are many other ways to get the character, gun skins, etc. Let’s discuss them one by one \n Use Free Fire Skins Redeem Codes. You can redeem skin codes to add different skins to your account. Some codes may not work because codes are limited and expire once they expire or once redeemed. And please don’t believe in any free fire redeem code generator, they don’t work and fail 99% times.",
+            "part2" : "-FFS2E3KKDYYA \n -FF5835RZAXTR \n -FF8QKRW77EEJ \n -FFYFPELKVE2Z \n -FFW5YA9HWDYA \n -FFCVVXQA5GST \n -FFDVZCMG5X5X \n -FFBKT33S94SY \n -FFRL4385BM7B \n -FFETYWYGZ4YE \n -FFAHMS9EHXNU \n -FF8RYYKSYC8D \n -FFBGVAFXRMWF \n -FFVFR2CXJCXJ \n -FFAZ6UTRW4RK \n -FFWSPPBUQL26 \n -FF7FVHBMFP7Z \n -FF3PN2MMXQ4A \n -FFC5QEZVN9S6 \n -FF964KZLDXNY \n -FF5RHHK4NGGH \n -FFCY9MTW7DSU \n -FF8KET2ADLAG \n -FFCA9LHNC5K4 \n -FFE98PFVF84V \n -FFYSR9WDNA95 \n -FF6A2DZMCU93"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Gift free fire skin from other accounts",
+            "img1" : "https://www.mrtechsonu.com/wp-content/uploads/2022/07/Free-fire-ID-Passwords-daily-1024x614.jpg",
+            "img2" : "",
+            "part1" : "Sure, you can buy every skin in Free Fire with diamonds but why would you want to? You could use an account that already holds a lot of them and send it as a gift instead. \n There are many paid free fire accounts with many free fire diamonds. We have collected such accounts where you can buy the free fire skins of character, weapons, etc, and gift them to your free fire id. \n Check the accounts here:",
+            "part2" : "-PatanjaliPanja02@gmail.com password:FF3212343 \n -Meghdevdharff@gmail.com password:FRFF8790Q \n -DakshDankster@gmail.com password:5409654DFF \n -DJAyyar@gmail.com password:FFSYHL3EJ \n -Zackchander@gmail.com password:FFcHANDU \n -AmanBartzFreefire@gmail.com password:FreeFire99Er \n -PaniniZidane99@gmail.com password:SpeedGunSkin32 \n -MahavaThakur_21_ff@gmail.com password:Play32$game \n -VishnuGhidal@hotmal.com password:ProFreeFire1999 \n\n .Use any of the given free fire id accounts and passwords to login \n .Buy your favorite free fire skins using the diamonds \n .Now gift the item to your account by entering the In-game id \n .Now check your free fire account to confirm about the gift"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "other ways to get free fire skins",
+            "img1" : "https://www.mrtechsonu.com/wp-content/uploads/2022/07/Free-fire-ID-hack-1024x614.jpg",
+            "img2" : "",
+            "part1" : "Using Google Play Redeem Codes \n In the Free Fire marketplace, you can purchase weapon crates that give out a random reward. If you open the marketplace, you will eventually find what kind of skin will suit your choice. You can use the Free Google play redeem codes given by our team to purchase these crates. Some free Google play redeem codes are given below.",
+            "part2" : "-G9XZSFYC2WF19VHR \n -BK0GG9VBPSFBFG5A \n -ELBUXMTBSGNHP0FW \n -7ZED6XGA60UMNRAV \n -1VCKBVHNR5P03HMK \n -4CPU3F7LBFARLESP \n -6N4V59U8HYA2M2VK \n Luck Royale \n In the game of Luck Royale, there are many ways to obtain different free fire gun skins. One way is by spinning a wheel and winning diamonds."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "How to Get Free bunker Gloo wall skin",
+            "img1" : "https://www.mrtechsonu.com/wp-content/uploads/2022/07/free-fire-gloo-wall-skin-768x415.jpg",
+            "img2" : "",
+            "part1" : "The Bunker Gloo Wall is a popular skin for gamers who want to protect themselves from incoming bullets. You can get a variety of Gloo walls in free fire like Bunker, FFWC,  Rampa Gloo, Cobra Strike, One punch man, Winterlands, Blood Hockey, Dragon seal, Hysteria, and so on. So here is the way how can you achieve the Gloo wall skin.",
+            "part2" : "-Invite & Win \n -FFWS (Free Fire World Series) Watch to Win \n -You can also use the invite and win feature to get bunker Gloo wall skin \n In the invite and win option, you have to invite your friends to participate in the ongoing event."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Conclusion",
+            "img1" : "https://www.mrtechsonu.com/wp-content/uploads/2022/07/free-fire-all-skin-768x415.jpg",
+            "img2" : "",
+            "part1" : "Friends if you follow our steps then you can easily get free fire skin. We have mentioned all the methods which work for us and will work for you too. And also remember that whenever we get new tricks like this we will update it on our blog immediately. You can visit our Mrtechsonu blog regularly for updates. If possible bookmark/star the Mrtechsonu site.",
+            "part2" : ""
+        }
+    ]
+}
