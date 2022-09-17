@@ -1,14 +1,14 @@
 {
     "config" : [
         {
-            "activate_vpn" : "true",
-            "activate_force_vpn" : "true",
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
             "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "529364450",
 
             "int_interval" : 5,
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -192,166 +192,41 @@
     
     "data" : [
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
-            "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
-            "img2" : "https://i.gifer.com/BCyK.gif",
-            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
-            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Synopsis",
+            "img1" : "https://cdn.akamai.steamstatic.com/steam/apps/2026870/capsule_616x353.jpg",
+            "img2" : "https://static.wikia.nocookie.net/puppetcombo/images/4/42/Loading.gif",
+            "part1" : "The dead will rise for revenge in NIGHT AT THE GATES OF HELL"",
+            "part2" : "Davids attempt at having a quiet, normal life is interrupted by the zombie apocalypse. To survive the apocalypse, he has to gather his thoughts, collect weapons, find other survivors, and fight his way through hordes of undead."
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/564x/34/1b/36/341b3694c814463a27fcd75f5027f47f.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "urlimg" : "",
+            "name" : "Plot",
+            "img1" : "https://static.wikia.nocookie.net/puppetcombo/images/2/28/Gates_of_hell_1.png",
+            "img2" : "https://puppetcombo.fandom.com/wiki/File:NightAtTheGatesOfHell_Gif13.gif",
+            "part1" : "Teaser starts with someone hanging himself above the grave. A voice is then heard the first gate is opened. Let the feast begin. The game then cuts to a character Liam arriving at the spot where his girlfriend Razor told him to meet her. He doesn t find her, so he searches the cemetery and is jumpscared by Razor. Two decide to have sex, but because Liam doesn t have a condom, Razor rejects him and tells him to get a condom. Liam returns to his car and gets one condom. He returns back and to his horror, finds Razor s mutilated, devoured corpse.",
+            "part2" : "Suddenly, zombies emerge from the bushes and attack Liam, but he manages to run away. Since the path to his car is blocked by more zombies, Liam runs to the church and takes refuge there. Liam explores church, finds a key in the confession booth and uses it to unlock a back door. Liam searches the corridors and reaches the end where he is attacked by the zombie Nun. The teaser ends here."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Gameplay",
+            "img1" : "https://cdn.akamai.steamstatic.com/steam/apps/2026870/ss_14473428d2cd35ac78fa2b30c1d6d2822f86edcf.1920x1080.jpg",
+            "img2" : "https://static.wikia.nocookie.net/puppetcombo/images/1/10/NightAtTheGatesOfHell_Gif16.gif",
+            "part1" : "TBA \n Modes",
+            "part2" : "After completing Night at the Gates of Hell, two short games are unlocked as bonus modes, including The Booty Creek Cheek Freak and Evil in the House of Dr. Fleshenstein."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/d8/0c/f3/d80cf3099aac52b695072918fe2d612a.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/ce/89/3c/ce893c542e3462afcc0323d8e4213009.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/b1/fe/4d/b1fe4da8d4707e3ec75f2267dac3d5b1.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/92/14/81/921481e5b84e6061fcf1f93896d384f0.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/35/1d/1b/351d1b0ea4bea4ed3c17b5a049017bed.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e5/08/95/e50895e28d58eaba5acfadcff3ed5394.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/75/5a/86/755a86c6e582d048f422b67ae24029db.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/51/0a/4e/510a4e610e913adf336bef966fe4e384.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e3/f2/9e/e3f29ec71a4eaf1ad3544640bf339069.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/1f/9f/31/1f9f319b6d9c584d369576a1055f28a7.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/58/06/21/5806211d1e3f63432167d81c32f3a56b.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/4b/2f/f9/4b2ff9267658009c127e8cfb82f8f199.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/65/5a/f6/655af642e7f06bc3400bde4895b1d1c8.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Trivia",
+            "img1" : "https://cdn.akamai.steamstatic.com/steam/apps/2026870/ss_d8161b408a6d67243b89e6e2d7f2b9963a6e8def.1920x1080.jpg",
+            "img2" : "https://static.wikia.nocookie.net/puppetcombo/images/7/74/Ballet_Zombies.gif,
+            "part1" : " . The game is inspired by Italian zombie flicks from Lucio Fulci and Bruno Mattei.-citation needed- \n . The teaser demo contains a slight amount of pre-changed differences when comparing to its full version. The pause menu is deeply simple, no music were heard, and Razor's death was more different, and additionally, Liam would react upon seeing her corpse. ",
+            "part2" : "According to Jordan King, the game takes place after Bloodwash.-3- \n Stan, a character from Bloodwash, returns in this game."
         }
+        
     ]
 }
