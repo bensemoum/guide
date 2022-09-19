@@ -1,14 +1,14 @@
 {
     "config" : [
         {
-            "activate_vpn" : "true",
-            "activate_force_vpn" : "true",
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
             "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "529364450",
 
             "int_interval" : 5,
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -192,22 +192,22 @@
     
     "data" : [
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
-            "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
-            "img2" : "https://i.gifer.com/BCyK.gif",
-            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
-            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "STORY",
+            "img1" : "https://img.phonandroid.com/2018/02/tekken-mobile-android.jpg",
+            "img2" : "https://i0.wp.com/www.lageekenrose.com/wp-content/uploads/2017/07/roster-Tekken-7.jpg?resize=770%2C433&ssl=1",
+            "part1" : "Towards the end of the 20th century, a mysterious challenge went out to all who were deserving.  No one knows from where it originated, but itsdraw was irresistible.  The promise of power and riches beyond those attainable by the common man all to go to the survivor. From the depths of the lower earth to the far reaches of the outlands the call escaped no one. Many perished during the mortal street fights that were only a preview of the challenges that were to come. Only 8 remain, those with the true killer instinct, all ready to die, to gain the title of TEKKEN , Lord of the Rave War.",
+            "part2" : ""
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/564x/34/1b/36/341b3694c814463a27fcd75f5027f47f.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "urlimg" : "",
+            "name" : "KEYPAD/BUTTON ABBREVIATIONS",
+            "img1" : "https://i.jeuxactus.com/datas/jeux/t/e/tekken-8/xl/tekken-8-63210958c7f92.jpg",
+            "img2" : "https://i0.wp.com/www.downtimebros.com/wp-content/uploads/2022/09/Jin-tekken-8.jpg?fit=950%2C513&ssl=1",
+            "part1" : "F = Forward           LP = Left Punch (square) \n D = Down              RP = Right Punch (triangle) \n B = Back              LK = Left Kick (cross) \n U = Up                RK = Right Kick (circle) \n , = denotes an individual press \n + = designates these must be pressed simultaneously \n taps = designates the keypad must be lightly tapped (not pressed) crouches = signifies that your character must perform the move \n after reaching a crouched position, the low-point of \n their knee bend, then releasing D and continuing with \n the button sequence \n hold = designates that the last button should be held until noted \n  "()" = notates a grouping of simutaneous button presses \n  ¥stuns¥ = denotes this move stuns your opponent \n \n Note: You can set the controllers to setting where the top buttons are \n  assigned tasks, this is accessible via the Title Screen/Test Mode/ \n  Options Mode/Key Config/. You alter the settings by moving the keypad l/r \n  until all buttons are assigned w/ the Free Setting selected.\n  L1 = pressing LP/LK simutaneously \n  R1 = pressing RP/RK simutaneously \n  L2 = pressing LK/RK simutaneously \n R2 = pressing LP/RP simutaneously \n ",
+            "part2" : ""
         },
         {
             "url" : "https://www.ted.com/",
