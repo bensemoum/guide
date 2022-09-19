@@ -205,17 +205,17 @@
             "urlimg" : "",
             "name" : "KEYPAD/BUTTON ABBREVIATIONS",
             "img1" : "https://i.jeuxactus.com/datas/jeux/t/e/tekken-8/xl/tekken-8-63210958c7f92.jpg",
-            "img2" : "https://i0.wp.com/www.downtimebros.com/wp-content/uploads/2022/09/Jin-tekken-8.jpg?fit=950%2C513&ssl=1",
+            "img2" : "https://i0.wp.com/www.downtimebros.com/wp-content/uploads/2022/09/Jin-tekken-8.jpg",
             "part1" : "F = Forward           LP = Left Punch (square)\n D = Down              RP = Right Punch (triangle) \n B = Back              LK = Left Kick (cross) \n U = Up                RK = Right Kick (circle) \n , = denotes an individual press \n + = designates these must be pressed simultaneously \n taps = designates the keypad must be lightly tapped (not pressed) \n crouches = signifies that your character must perform the move after reaching a crouched position, the low-point of their knee bend, then releasing D and continuing with the button sequence \n hold = designates that the last button should be held until noted \n '()' = notates a grouping of simutaneous button presses \n ¥stuns¥ = denotes this move stuns your opponent \n ",
             "part2" : "Note: You can set the controllers to setting where the top buttons are assigned tasks, this is accessible via the Title Screen/Test Mode/ Options Mode/Key Config/. You alter the settings by moving the keypad l/r until all buttons are assigned w/ the 'Free Setting' selected. \n L1 = pressing LP/LK simutaneously \n R1 = pressing RP/RK simutaneously \n L2 = pressing LK/RK simutaneously \n R2 = pressing LP/RP simutaneously"
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
+            "url" : "",
+            "urlimg" : "",
+            "name" : "GENERAL MOVES",
             "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
             "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
+            "part1" : "Basic Attacks: \n \n Left Punch: LP \n Right Punch: RP \n Left Kick: LK \n Right Kick: RK \n Low Punch: D + LP [or RP] \n Weak Uppercut: D(crouch), + LP [or RP] \n Low Kick: D + LK [or RK] \n \n Rising Kick: D(crouch) + LK [or RK] \n Jumping Attacks: (note: U may be substituted by UB/UF) \n \n Jump High: U \n Jump Low: (tap)U \n High Jumping Punch: U + LP [or RP] \n High Jumping Kick: U + LK [or RK] \n Low Jumping Left Punch:(tap)U + LP [or RP] \n Low Jumping Kick:(tap)U + LK [or RK] \n High Power Sweep: U, (almost down) LK \n High Power Punch: U, (almost down) LP \n \n (more to be added in future FAQ versions) ",
             "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
         },
         {
