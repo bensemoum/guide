@@ -1,0 +1,276 @@
+{
+    "config" : [
+        {
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
+            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
+            "vpn_user" : "freeopenvpn",
+            "vpn_password" : "529364450",
+
+            "int_interval" : 5,
+            "activate_ads" : "false",
+            "activate_steps" : "false",
+            "activate_step_email" : "false",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "admob",
+
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-1820435-2",
+            "yandex_int" : "R-M-1820435-3",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+
+            "iron_source_key": "12c959ebd",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },{
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "bg" : "#FBBF24"
+        },{
+            "active" : "true",
+            "name" : "spinner",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "bg" : "#A3E635"
+        },{
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "bg" : "#38BDF8"
+        },{
+            "active" : "true",
+            "name" : "questions",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "bg" : "#2DD4BF"
+        },{
+            "active" : "true",
+            "name" : "quiz",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "bg" : "#4ADE80"
+        },{
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "bg" : "#2196F3"
+        },{
+            "active" : "true",
+            "name" : "rate",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "bg" : "#3F51B5"
+        },{
+            "active" : "true",
+            "name" : "more",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
+            "bg" : "#673AB7"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Hypercasual",
+            "orientation" : "1"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        }
+
+    ],
+    
+    "scratch" : [
+        {
+            "img" : "https://w0.peakpx.com/wallpaper/899/1009/HD-wallpaper-zepeto-gay-couple-boys-cute-lgbt.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/793/678/HD-wallpaper-zepeto-game.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/263/277/HD-wallpaper-zepeto-friends-winter.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/196/165/HD-wallpaper-lollipop-iphone-iphone-11-samsung-samsung-galaxy-zepeto.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/532/360/HD-wallpaper-harley-quinn-girl-halloween-iphone-samsung-zepeto.jpg"
+        }
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432923.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432924.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432925.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432927.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432928.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432930.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/301/918/HD-wallpaper-zepeto-love-cute.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/487/129/HD-wallpaper-zepeto-gay-couple-boys-couple-cute-gay-zepeto.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/479/417/HD-wallpaper-blackpink-girl-rose-squad-zepeto.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/170/840/HD-wallpaper-fall-couple-boy-couple-cute-fall-girl-zepeto.jpg"
+        }
+    ],
+    
+    "data" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "How to Enter GTA 5",
+            "img1" : "https://assets.mspimages.in/gear/wp-content/uploads/2021/02/gta-v-cheats.jpg",
+            "img2" : "",
+            "part1" : "How to Enter GTA 5 (Grand Theft Auto V) Cheat Codes on PlayStation, Xbox and PC",
+            "part2" : "As you would expect, the procedure of entering cheat codes is different on different platforms. This includes Grand Theft Auto V for PlayStation, Xbox and PC. One common way for all platforms is to press ‘up’ to bring up the cell phone, and enter codes to activate special powers and helicopters. Apart from that, each platform has its own set of commands, which you can execute to enable specific features in the game. On PC, gamers can also use the ‘~’ key to bring up the command enter box, and type the cheat code to activate powers in the game. The key combinations for each platform and the respective codes are mentioned alongside the cheats below."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "GTA V Movement Cheat Codes List",
+            "img1" : "https://cdn.roosterteeth.com/image/upload/t_l/f_auto/2/uploads/images/038f80e0-8a75-4124-92de-1b05955337b2/original/1788484-1457979328770-fh_thumb.jpg",
+            "img2" : "",
+            "part1" : "1-Drunk mode \n PS: Triangle, Right, Right, Left, Right, Square, O, Left \n Xbox: Y, Right, Right, Left, Right, X, B, Left \n PC: LIQUOR or Cell Phone: 1-999-547867 \n\n 2-Fast sprint \n PS: Triangle, Left, Right, Right, L2, L1, Square \n Xbox: Y, Left, Right, Right, LT, LB, X \n PC: CATCHME or Cell Phone: 1-999-228-2463 \n\n 3-Fast swimming \n PS: Left, Left, L1, Right, Right, R2, Left, L2, Right \n Xbox: Left, Left, LB, Right, Right, RT, Left, LT, Right \n PC: GOTGILLS or Cell Phone: 1-999-46844557",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "GTA 5 Ability Cheat Codes List",
+            "img1" : "https://cs2.gtaall.com/screenshots/4dc09/2015-05/original/01ddec59fcc892e42fb3803099c83abd3b112064/269755-GTA5-2015-05-29-12-42-13-107.jpg",
+            "img2" : "",
+            "part1" : "1-Change Gravity \n PS: Left, Left, L1, R1, L1, Right, Left, L1, Left \n Xbox: Left, Left, LB, RB, LB, Right, Left, LB, Left \n PC: FLOATER or Cell Phone: 1-999-356-2837 \n\n 2-Change Weather \n PS: R2, X, L1, L1, L2, L2, L2, Square \n Xbox: RT, A, LB, LB, LT, LT, LT, X \n PC: MAKEITRAIN or Cell Phone: 1-999-625-348-7246 \n\n 3-Give Parachute \n PS: Left ,Right, L1, L2, R1, R2, R2, Left, Left, Right, L1 \n Xbox: Left, Right, LB, LT, RB, RT, RT, Left, Left, Right, LB \n PC: SKYDIVE or Cell Phone: 1-999-759-3483 \n\n 4-Invincibility \n PS: Right, X, Right, Left, Right, R1, Right, Left, X, Triangle \n Xbox: Right, A, Right, Left, Right, RB, Right, Left, A, Y \n PC: PAINKILLER or Cell Phone: 1-999-724-6545537 \n\n 5-Lower Wanted Level \n PS: R1, R1, O, R2, Right, Left, Right, Left, Right, Left \n Xbox: RB, RB, B, RT, Right, Left, Right, Left, Right, Left \n PC: LAWYERUP or Cell Phone: 1-999-529-93787 \n\n 6-Max Health and Armour \n PS: O, L1, Triangle, R2, X ,Square, O, Right, Square, L1, L1, L1 \n Xbox: B, LB, Y, RT, A, X, B, Right, X, LB, LB, LB \n PC: TURTLE or Cell Phone: 1-999-887-853",
+            "part2" : "7-Raise Wanted Level \n PS: R1, R1, O, R2, Left, Right, Left, Right, Left, Right \n Xbox: RB, RB, B, RT, Left, Right, Left, Right, Left, Right \n PC: FUGITIVE or Cell Phone: 1-999-384-48483 \n\n 8-Recharge Special Ability \n PS: X, X, Square, R1, L1, X, Right, Left, X \n Xbox: A, A, X, RB, LB, A, Right, Left, A \n PC: POWERUP or Cell Phone: 1-999-769-3787 \n\n 9-Reduce Friction \n PS: Triangle, R1, R1, Left, R1, L1, R2, L1 \n Xbox: Y, RB, RB, Left, RB, LB, RT, LB \n PC: SNOWDAY or Cell Phone: 1-999-766-9329 \n\n 10-Skyfall \n PS: L1, L2, R1, R2, Left, Right, Left, Right, L1, L2, R1, R2, Left, Right, Left, Right \n Xbox: LB, LT, RB, RT, Left, Right, Left, Right, LB, LT, RB, RT, Left, Right, Left, Right \n PC: SKYFALL or Cell Phone: 1-999-759-3255 \n\n 11-Slow Motion \n PS: Triangle, Left, Right, Right, Square, R2, R1 \n Xbox: Y, Left, Right, Right, X, RT, RB \n PC: SLOWMO or Cell: 1-999-756-966 \n\n 12-Slow-Motion Aiming \n PS: Square, L2, R1, Triangle, Left, Square, L2, Right, X \n Xbox: X, LT, RB, Y, Left, X, LT, Right, A \n PC: DEADEYE or Cell Phone: 1-999-332-3393 \n\n 13-Super Jump \n PS: L2, L2, Square, O, O, L2, Square, Square, Left, Right, X \n Xbox: Left, Left, Y, Y, Right, Right, Left, Right, X, RB, RT \n PC: HOPTOIT or Cell Phone: 1-999-467-8648"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Weapon Cheat Codes List",
+            "img1" : "https://www.gtaboom.com/wp-content/uploads/2021/11/gta-5-cheats-ps.jpg",
+            "img2" : "",
+            "part1" : "GTA 5 Weapon Cheat Codes List",
+            "part2" : "1-Explosive Melee Attacks \n PS: Right, Left, X, Triangle, R1, O, O, O, L2 \n Xbox: Right, Left, A, Y, RB, B, B, B, LT \n PC: HOTHANDS or Cell Phone: 1-999-468-42637 \n\n 2-Explosive Rounds \n PS: Right, Square, X, Left, R1, R2, Left, Right, Right, L1, L1, L1 \n Xbox: Right, X, A, Left, RB, RT, Left, Right, Right, LB, LB, LB \n PC: HIGHEX or Cell Phone: 1-999-444-439 \n\n 3-Flame Rounds \n PS: L1, R1, Square, R1, Left, R2, R1, Left, Square, Right, L1, L1 \n Xbox: LB, RB, X, RB, Left, RT, RB, Left, X, Right, LB, LB \n PC: INCENDIARY or Cell Phone: 1-999-4623-634279 \n\n 4-Give Weapons and Ammo \n PS: Triangle, R2, Left, L1, X, Right, Triangle, Down, Square, L1, L1, L1 \n Xbox: Y, RT, Left, LB, A, Right, Y, Down, X, LB, LB, LB \n PC: TOOLUP or Cell Phone: 1-999-866-587"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Vehicle Cheat Codes List",
+            "img1" : "https://i.ytimg.com/vi/DaxHsPHBhao/maxresdefault.jpg",
+            "img2" : "",
+            "part1" : "1-BMX Bike \n PS: Left, Left, Right, Right, Left, Right, Square, O, Triangle, R1, R2 \n Xbox: Left, Left, LB, RB, LB, Right, Left, LB, Left \n PC: BANDIT or Cell Phone: 1-999-226-348 \n\n 2-Buzzard Helicopter \n PS: O, O, L1, O, O, O, L1, L2, R1, Triangle, O, Triangle \n Xbox: B, B, LB, B,B,B,LB, LT, RB, Y, B, Y \n PC: BUZZOFF or Cell Phone: 1-999-289-9633 \n\n 3-Caddy Vehicle \n PS: O, L1, Left, R1, L2, X, R1, L1, O, X \n Xbox: B, LB, Left, RB, LT, A, RB, LB, B, A \n PC: HOLEIN1 or Cell Phone: 1-999-4653-461 \n\n 4-Comet Vehicle \n PS: R1, O, R2, Right, L1, L2, X, X, Square, R1 \n Xbox: RB, B, RT, Right, LB, LT, A, A, X, RB \n PC: COMET or Cell Phone: 1-999-266-38 \n\n 5-Duster Plane \n PS: Right, Left, R1, R1, R1, Left, Triangle, Triangle, X, O, L1, L1 \n Xbox: Right, Left, RB, RB, RB, Left, Y, Y, A, B, LB, LB \n PC: FLYSPRAY or Cell: 1-999-359-77729 \n\n 6-Garbage Truck Vehicle \n PS: Circle, R1, Circle, R1, Left, Left, R1, L1, Circle, Right \n Xbox: B, RB, B, RB, Left, Left, RB, LB, B, Right \n PC: TRASHED or Cell Phone: 1-999-872-7433",
+            "part2" : "7-Maibatsu Sanches \n PS: Left, Left, Right, Right, Left, Right, Square, O, Triangle, R1, R2 \n Xbox: B, A, LB, B, B, LB, B, RB, RT, LT, LB, LB \n PC: OFFROAD or Cell Phone: 1-999-633-7623 \n\n 8-Rapid GT Vehicle \n PS: R2, L1, O, Right, L1, R1, Right, Left, O, R2 \n Xbox: RT, LB, B, Right, LB, RB, Right, Left, B, RT \n PC: RAPIDGT or Cell: 1-999-727-4348 \n\n 9-Shitzu PCJ 600 \n PS: R1, Right, Left, Right, R2, Left, Right, Square, Right, L2, L1, L1 \n Xbox: RB, Right, Left, Right, RT, Left, Right, X, Right, LT, LB, LB \n PC: ROCKET or Cell Phone: 1-999-762-538 \n\n 10-Stretch Limo Vehicle \n PS: R2, Right, L2, Left, Left, R1, L1, O, Right \n Xbox: RT, Right, LT, Left, Left, RB, LB, B, Right \n PC: VINEWOOD or Cell Phone: 1-999-846-39663 \n\n 11-Stunt Plane \n PS: O, Right, L1, L2, Left, R1, L1, L1, Left, Left, X, Triangle \n Xbox: B, Right, LB, LT, Left, RB, LB, LB, Left, Left, A, Y \n PC: BARNSTORM or Cell Phone: 1-999-227-678-676"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "GTA 5 Special Vehicle Cheat Codes List",
+            "img1" : "https://assets.vg247.com/current//2016/12/gta_online_armoured_boxville.jpg",
+            "img2" : "",
+            "part1" : "1-Dodo Airplane (available only after Sea Plane challenge) \n PS: Dial 1-999-398-4628 \n Xbox: Dial 1-999-398-4628 \n PC: EXTINCT or Cell Phone: 1-999-398-4628 \n\n 2-Duke O’Death Car (available only after Duel challenge) \n PS: Dial 1-999-332-84227 \n Xbox: Dial 1-999-332-84227 \n PC: DEATHCAR or Cell Phone: 1-999-332-84227 \n\n 3-Kraken Sub (available only after Wildlife Photography challenge) \n PS: Dial 1-999-282-2537 \n Xbox: Dial 1-999-282-2537 \n PC: BUBBLES or Cell Phone: 1-999-282-2537",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "God Mode in GTA 5",
+            "img1" : "https://i.ytimg.com/vi/rCRWN1cF3Ww/maxresdefault.jpg",
+            "img2" : "",
+            "part1" : "What is God Mode in GTA 5 and How to Use It? \n God Mode in GTA 5 is a special mode that allows the player’s character to be invincible and immune to any attack. However, the only downside of the model is that it is activated for only five minutes. So, if a player wants to activate the God Mode for a longer period of time, they have to enter the cheat code again and again after five minutes intervals. You can enter God Mode in GTA 5 by using your cellphone in the game or by simply entering the cheat codes. Here’s a list of cheat codes for God Mode on different platforms:",
+            "part2" : "PC: PAINKILLER \n PS3/PS4: RIGHT, X, RIGHT, LEFT, RIGHT, R1, RIGHT, LEFT, X, TRIANGLE \n Xbox 360/Xbox One: Right, A, RIGHT, LEFT, RIGHT, RB, RIGHT, LEFT, A, Y \n Cell Phone: 1-999-724-654-5537 (1-999-PAINKILLER)"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Activate Helicopter Cheat in GTA 5",
+            "img1" : "https://assets.reedpopcdn.com/gta-5-cheats-cheat-codes-ps4-ps3-xbox-one-xbox-360-pc-5115-1556720861045.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/gta-5-cheats-cheat-codes-ps4-ps3-xbox-one-xbox-360-pc-5115-1556720861045.jpg",
+            "img2" : "",
+            "part1" : "GTA 5 allows you to use helicopter cheat in the game. There is a dedicated cheat code to spawn a Buzzard helicopter in the game that will help you to go from one position to another. Here’s how you can activate the helicopter cheat in GTA 5:",
+            "part2" : "PC: BUZZOFF \n PS3/PS4: O, O, L1, O, O, O, L1, L2, R1, Triangle, O, Triangle \n Xbox 360/Xbox One: B, B, LB, B,B,B,LB, LT, RB, Y, B, Y \n Cell Phone: 1-999-289-9633"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Tesla in GTA 5",
+            "img1" : "https://gtamag.com/images/photo/gta-mag-coil-raiden-375824.jpg",
+            "img2" : "",
+            "part1" : "Is there a Tesla in GTA 5?",
+            "part2" : "Yes, a version of Tesla Roadster is there in the GTA 5 game. The car is known as Voltic, which was developed by a fictional company known as Coil. One can buy the Voltic aka Tesla Roadster, in the game via the Legendary Motorsports website for $150,000."
+        }
+    ]
+}
