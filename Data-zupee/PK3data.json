@@ -9,7 +9,7 @@
             "vpn_password" : "504853397",
 
             "int_interval" : 5,
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "4e045567-b6d5-4224-84f6-126609da7a04",
@@ -27,9 +27,9 @@
             "max_native" : "9e27ff985bda79be",
             "max_int" : "3805b3b693717700",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
-            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
-            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "fan_ban": "776038827004620_776039580337878",
+            "fan_native": "776038827004620_776039733671196",
+            "fan_int": "776038827004620_776039937004509",
 
             "iron_source_key": "12c959ebd",
             
