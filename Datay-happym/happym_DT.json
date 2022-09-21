@@ -1,14 +1,14 @@
 {
     "config" : [
         {
-            "activate_vpn" : "true",
-            "activate_force_vpn" : "true",
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
             "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "529364450",
 
             "int_interval" : 5,
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -150,208 +150,101 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
+            "img" : "https://play-lh.googleusercontent.com/pE5yN7q9s46cLxSvk6P-bowtmawjNdWO9V9LKke9P0HjS903S0yLZ1P73VrVs4ZOzlw=w1400-h720"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
+            "img" : "https://play-lh.googleusercontent.com/PjA3UK6T_FkeePiVaRC2UevlCvqhqwgDsCoTw8KnF_qvXmEnDyG4Zh9BYwXgIsBgCRU=w800-h500"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
+            "img" : "https://apkmodule.com/media/2022/01/_3/800x600/happymod-mod-apk_82a39.jpg"
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
+            "img" : "https://previews.123rf.com/images/ingalinder/ingalinder1701/ingalinder170100101/70804630-smiley-face-3d-render-green-neon-icon-on-black-background.jpg"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
+            "img" : "https://play-lh.googleusercontent.com/aJGSu8-qgynmT8Q3ruCAaT_Rn-uA9ERVZ4JftOQyVw82IUXjcpwnnqhE_1IHRQAzcsvH=w720-h310"
         },
         {
             "name" : "",
-            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
+            "img" : "https://dlpure.com/wp-content/uploads/2020/10/1602239208.png"
         },
         {
             "name" : "",
-            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
+            "img" : "https://gragehotels.co.id/wp-content/uploads/2022/02/Happymod_Apk_banner.jpg"
         },
         {
             "name" : "",
-            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
+            "img" : "https://ak.picdn.net/shutterstock/videos/1063127893/thumb/3.jpg?ip=x480"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
+            "img" : "https://i.imgur.com/hq337CD.jpg"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
+            "img" : "https://wallpapertops.com/walldb/original/a/3/8/573937.jpg"
         }
     ],
     
     "data" : [
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World - NEW FEATURE in Home Designer! Design Walls and Floors",
-            "img1" : "https://i.pinimg.com/564x/a8/6a/5c/a86a5ce4d13fb835dfe5ad07c8100aa2.jpg",
-            "img2" : "https://i.gifer.com/BCyK.gif",
-            "part1" : "Toca Life World APK guide: how to download on Android, iOS, and PC",
-            "part2" : "How do you download the Toca Life World APK? That is a brilliant question and we have devoted this guide to explain it. But first, what Toca Life World? Toca Life World is an educational game where you take control of everything. You get to dress, position, and interact with the surrounding environment, and come up with whatever story comes to mind. Think of Toca Life World as a blank canvas, ready for you to paint on."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "4 important things you need to know about Happy Mod Apk",
+            "img1" : "https://res.cloudinary.com/jerrick/image/upload/f_jpg,fl_progressive,q_auto,w_1024/60af832104832e001dca29a5.jpg",
+            "img2" : "https://image.winudf.com/v2/image1/Y29tLmhhcHB5bW9kLmd1aWRlX3NjcmVlbl80XzE2MTM1MTkzNjFfMDUw/screen-4.jpg?fakeurl=1&type=.webp",
+            "part1" : "Happy Mod Apk and it's importance \n \n Default settings, customization, and options in Android games are fun and all, but it’s a totally different experience when you have access to modifications that the original game developer does not provide. If you want to experience as one of the elites in having access to different types of modifications, you cannot go wrong with game modifying applications, the most popular one being HappyMod.",
+            "part2" : "If it’s your first time hearing about HappyMod apk or have heard about the app for a while but have been hesitant about checking it out, this post is just right for you. Here are the 6 important things you need to know about the platform:"
         },
         {
             "url" : "",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/564x/34/1b/36/341b3694c814463a27fcd75f5027f47f.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "urlimg" : "",
+            "name" : "What is HappyMod apk?",
+            "img1" : "https://i2.wp.com/img.androidfreeware.net/screens/yygpKSi20tcvyEms1M3J0EvPz0_PSS0tTi1Kzs8rSc0r0UvOz9VPM8rMqSoM8qgIDvSMcilMSXRKSwotzk6Kqoo3CMktdc8It_AMSXfPyA0Lt0x1DAvN98stTCsqjbeIDwwrcikOiAowAQA/com-invictus-happymd-1.jpg?size=large",
+            "img2" : "https://download.happymod.com/static/picture/switchable-2.2.png",
+            "part1" : "HappyMod is a platform where you can access different types of modifications for different types of android games. It is safe to say that HappyMod is a one-stop-shop for game modification aficionados. This is because the platform allows gamers to not just download mods created by other developers but also publish and test their own mods and offer them to the gaming mod community.",
+            "part2" : "However, it is important to note that HappyMod does not create any game modifications, nor does it have an in-house team of developers that focus on different types of game mods for various types of android games. HappyMod is just a platform that lays a solid foundation for an active game mod community that’s all about creating, testing, and sharing game mods with gamers."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "A large-sized mod platform hosting a vast pool of mod files",
+            "img1" : "https://pic.clubic.com/v1/images/1744841/raw.webp?width=1200&fit=max&hash=8e171db8fc9c18f27ab926aa9a4d19bd5778682f",
+            "img2" : "https://rayhaber.com/wp-content/uploads/2022/03/happymod1.png",
+            "part1" : "HappyMod is one of the largest mod apk sites for gamers. This is because the platform hosts as many as 30,000 game mod files that can be easily accessed. What’s unique about this platform is that gamers can request for a new type of mod for a specific game if it’s not available in the marketplace.",
+            "part2" : "The best part about HappyMod is every game mod file it hosts is hundred percent working and up to date. Np game mode files on the platform are outdated or patched and that has been the long-standing reputation that has helped HappyMod achieve consistent and sustainable growth over the years."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/d8/0c/f3/d80cf3099aac52b695072918fe2d612a.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "How to use HappyMod apk?",
+            "img1" : "https://apkmody.io/wp-content/uploads/2022/08/1280X1280.png",
+            "img2" : "https://cdn.teknobgt.com/wp-content/2022/07/happymod-apk-update-terbaru.png.webp",
+            "part1" : "Using HappyMod is fairly simple. Just like the way it is for various android app that isn’t officially available in the play store, you have to download HappyMod apk in order to install it on your android device. You can visit the download page of the HappyMod website in order to get access to the downloadable apk file.",
+            "part2" : "After you have downloaded the APK file, install it on your android device and complete the setup processes that are provided on the screen. Similar to other mod apk, you have to register yourself with an account if you want to be a part of the gaming mod community of the platform. \n \n After you complete all the registration processes, you can explore the community and the different types of gaming mod files that are available on the platform."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/ce/89/3c/ce893c542e3462afcc0323d8e4213009.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Is HappyMod apk safe?",
+            "img1" : "https://www.softlay.com/wp-content/uploads/happymod-safe.jpg",
+            "img2" : "https://image.winudf.com/v2/image1/Y29tLndoYXBweW1vZC5hcHBfc2NyZWVuXzBfMTYyMDgwMDUwOV8wMTM/screen-0.jpg?fakeurl=1",
+            "part1" : "HappyMod is totally safe to download, install, and use. Although the platform isn’t officially available in the Google play store, that does not mean that it is illegal or malicious in design. HappyMod has now become the go-to game mod platform for gamers across the world.",
+            "part2" : "The game mod files that the platform includes are all legitimate and do not include any malicious elements such as Trojans and spyware. Moreover, the active community of gamers in the platform can help you get answers to your query, whether it’s related to game or game mod development technicalities."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/b1/fe/4d/b1fe4da8d4707e3ec75f2267dac3d5b1.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/92/14/81/921481e5b84e6061fcf1f93896d384f0.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/originals/fe/30/d6/fe30d63c50c0bedd52f213d2beb4bb23.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/35/1d/1b/351d1b0ea4bea4ed3c17b5a049017bed.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e5/08/95/e50895e28d58eaba5acfadcff3ed5394.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/75/5a/86/755a86c6e582d048f422b67ae24029db.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/474x/51/0a/4e/510a4e610e913adf336bef966fe4e384.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/e3/f2/9e/e3f29ec71a4eaf1ad3544640bf339069.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/1f/9f/31/1f9f319b6d9c584d369576a1055f28a7.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Explore the World of Toca Boca - GeekDad",
-            "img1" : "https://i.pinimg.com/564x/58/06/21/5806211d1e3f63432167d81c32f3a56b.jpg",
-            "img2" : "https://c.tenor.com/-n-tAjzjGl8AAAAC/toca-life-stories-nari.gif",
-            "part1" : "A newcomer on the mobile scene, Genshin Impact proved naysayers wrong that a true, console-quality title is totally possible on mobile. It’s absolutely stunning, with a bunch of characters to collect, a wide world to explore, and plenty of fun to be had.",
-            "part2" : "Check out our Genshin Impact tier list, Genshin Impact map, Genshin Impact codes list, and Genshin Impact next banner guide to help you get started."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life World APK guide",
-            "img1" : "https://i.pinimg.com/474x/4b/2f/f9/4b2ff9267658009c127e8cfb82f8f199.jpg",
-            "img2" : "https://i.gifer.com/MjQT.gif",
-            "part1" : "When you search on Google for an APK, there are an overwhelming amount of options all offering different things. The site we trust is APKPure.",
-            "part2" : "HOW CAN I PLAY TOCA LIFE WORLD ON PC? Playing mobile games on your computer has never been easier thanks to emulators. If you don’t know, an emulator is a program that simulates another device. In this situation, you need to download an Android emulator for your computer."
-        },
-        {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "name" : "Toca Life: World Adds a Dentist's Office for Kids to Explore | SuperParent",
-            "img1" : "https://i.pinimg.com/474x/65/5a/f6/655af642e7f06bc3400bde4895b1d1c8.jpg",
-            "img2" : "https://i.gifer.com/embedded/download/Fhqw.gif",
-            "part1" : "What are the best iPhone games? Whether you’re an Apple diehard or you’ve just bought your first device.",
-            "part2" : "To help you find something that specifically appeals to you, we’ve included a few different genres, so no matter your tastes, we’ve got you covered here. From Genshin Impact to Candy Crush, you’re sure to find something you enjoy."
+            "url" : "",
+            "urlimg" : "",
+            "name" : "About Happy Mod",
+            "img1" : "https://happymod.com/static/img/pic.png",
+            "img2" : "https://happymod.com/static/img/left.png",
+            "part1" : "HappyMod is paltform for mod lovers to download, request and test android mods. HappyMod don't make the mods, and all the mods came from internet.Over 30,0000 android app mods can be downloaded here. And we will add more android mod apps. \n Keep all the mods in HappyMod 100% working is our goal. How to achieve this goal? We will provide large number of mod app for user to test. Then we pick out those really working mod. We will also mark these mods accordig users' feedback, so that it will help our users to select best mods.",
+            "part2" : "Can't find the mod you need? You can have a request about the mod you need. We will inform you as soon as we get it.If you found the mod is out of version or not work for you. You can have a request for update here. \n Can't find the mod you need? You can have a request about the mod you need. We will inform you as soon as we get it.If you found the mod is out of version or not work for you. You can have a request for update here. \n HappyMod is the best place for mod lover! Welcome!"
         }
+       
     ]
 }
