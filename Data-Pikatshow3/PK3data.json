@@ -1,11 +1,11 @@
 {
     "config" : [
         {
-            "activate_vpn" : "true",
-            "activate_force_vpn" : "true",
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
             "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
             "vpn_user" : "freeopenvpn",
-            "vpn_password" : "386654525",
+            "vpn_password" : "931827185",
 
             "int_interval" : 5,
             "activate_ads" : "true",
