@@ -1,0 +1,277 @@
+{
+    "config" : [
+        {
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
+            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
+            "vpn_user" : "freeopenvpn",
+            "vpn_password" : "529364450",
+
+            "int_interval" : 5,
+            "activate_ads" : "false",
+            "activate_steps" : "false",
+            "activate_step_email" : "false",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "admob",
+
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-1820435-2",
+            "yandex_int" : "R-M-1820435-3",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+
+            "iron_source_key": "12c959ebd",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },{
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "bg" : "#FBBF24"
+        },{
+            "active" : "true",
+            "name" : "spinner",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "bg" : "#A3E635"
+        },{
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "bg" : "#38BDF8"
+        },{
+            "active" : "true",
+            "name" : "questions",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "bg" : "#2DD4BF"
+        },{
+            "active" : "true",
+            "name" : "quiz",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "bg" : "#4ADE80"
+        },{
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "bg" : "#2196F3"
+        },{
+            "active" : "true",
+            "name" : "rate",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "bg" : "#3F51B5"
+        },{
+            "active" : "true",
+            "name" : "more",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
+            "bg" : "#673AB7"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Hypercasual",
+            "orientation" : "1"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        }
+
+    ],
+    
+    "scratch" : [
+        {
+            "img" : "https://w0.peakpx.com/wallpaper/899/1009/HD-wallpaper-zepeto-gay-couple-boys-cute-lgbt.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/793/678/HD-wallpaper-zepeto-game.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/263/277/HD-wallpaper-zepeto-friends-winter.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/196/165/HD-wallpaper-lollipop-iphone-iphone-11-samsung-samsung-galaxy-zepeto.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/532/360/HD-wallpaper-harley-quinn-girl-halloween-iphone-samsung-zepeto.jpg"
+        }
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432923.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432924.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432925.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432927.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432928.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432930.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/301/918/HD-wallpaper-zepeto-love-cute.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/487/129/HD-wallpaper-zepeto-gay-couple-boys-couple-cute-gay-zepeto.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/479/417/HD-wallpaper-blackpink-girl-rose-squad-zepeto.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/170/840/HD-wallpaper-fall-couple-boy-couple-cute-fall-girl-zepeto.jpg"
+        }
+    ],
+    
+    "data" : [
+        
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Choose your character",
+            "img1" : "https://www.gamezebo.com/wp-content/uploads/2021/08/stickman-ragdoll-fighter-screenshot-kicking-a-boss-to-death-720x400.jpg",
+            "img2" : "",
+            "part1" : "You choose your character, create your own food, clothes, house, farm, and much more.You also get to dress, behave, position, and deal with the environment around you, and come up with any story so comes to your mind.Think of wobbly life ragdoll gameplay a train to catch ending part 9 4k as an empty canvas, ready to be filled with your imagination.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Wobbly life Simulator",
+            "img1" : "https://image.winudf.com/v2/image1/Y29tLnNtYXJ0LndvYmJseWxpZmVndWlkZV9zY3JlZW5fM18xNjA3MzM5MDQ3XzAyMQ/screen-3.jpg",
+            "img2" : "",
+            "part1" : "You are free to add whatever you want in wobbly life simulator, which means that you can create or modify everything within it, making it realistic and even funnier.",
+            "part2" : "What's more, it also has many online friends to meet and play with in order to help you along the way."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : " Take Complete control of everything",
+            "img1" : "https://image.winudf.com/v2/image1/Y29tLldvYmJseUxpZmUuR3VpZGVfc2NyZWVuXzBfMTYzMTc2MDczOF8wMjc/screen-0.jpg",
+            "img2" : "",
+            "part1" : "wobbly life multiplayer ragdoll game is a unique online role-playing game in which you take complete control of everything within it.",
+            "part2" : "There are also secret items to acquire while play wobbly life gameplay roleplay but with mods 2, as well as some nice achievements and trophies to unlock."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Stickman Ragdoll",
+            "img1" : "https://www.gamezebo.com/wp-content/uploads/2021/08/stickman-ragdoll-fighter-screenshot-kicking-a-boss-to-death-720x400.jpg",
+            "img2" : "",
+            "part1" : "Stickman Ragdoll Fighter is a game that does pretty much exactly what its title suggests it’ll do. There are stickmen, there’s some ragdoll physics and there’s an awful lot of fighting. It’s a decent chunk of fun, but if you’re struggling with the game don’t worry too much – it can be challenging. \n Which is why we’ve written this strategy guide. Follow these hints, tips and tricks and you should be winning every fight with a big stupid grin on your face. Which is, after all, the whole point of playing, right?",
+            "part2" : "If you’ve just started your Stickman Ragdoll Fighter career or you’ve been brawling for a while, there’s going to be something here that’ll make your life much easier. So here are the best hints, tips and cheats for Stickman Ragdoll Fighter."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Push them into the corner",
+            "img1" : "https://sg-res.9appsdownloading.com/sg/res/jpg/be/d2/70ac2e786bcf1895942ef6d48e5d-97j2.jpg",
+            "img2" : "https://www.gamezebo.com/wp-content/uploads/2021/08/stickman-ragdoll-fighter-screenshot-landing-some-fearsome-blows.jpg",
+            "part1" : "There’s no point trying to be defensive or strategic in the fights – your first goal should be to charge your opponent and push them into the corner. Trap them there and you should be able to deliver a beatdown that’ll keep them there until their HP has hit zero.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Protect the weapons",
+            "img1" : "https://file.apksalad.com/images/2RIflNuYyOwtji1XLXyl298XtLFAswc1h5CdTNwCymdz_JPICK9dk77BYb5r7OoeJ_Q.jpg",
+            "img2" : "",
+            "part1" : "When the weapons drop onto the level, it’s important to keep your opponent away from them. If they do manage to pick one up, make sure you get the other one and push them back into a corner. The rocket launcher and shotgun can kill you in an instant, and the only way to protect yourself is to beat the hell out of your foe.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Keep low",
+            "img1" : "https://file.apksalad.com/images/gnfVVHvxQZwyRG4E5QxgkHaWhG5H8r7H5GIaN_v3-0YtYd-8TxQcnWqC4BOJZ0iAT74.jpg",
+            "img2" : "https://www.gamezebo.com/wp-content/uploads/2021/08/stickman-ragdoll-fighter-screenshot-the-start-of-a-fight-scaled.jpg",
+            "part1" : "Keeping low makes you a more difficult target to hit, and allows you to hack away at your opponent’s legs. If they switch up, try and quickly shift to a high attack to take them off their guard. The key is, you shouldn’t be backing off at any point.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Tap in the green",
+            "img1" : "https://file.apksalad.com/images/3tw952nZlP9C882T9YbxJfCOjRgsjBFfqtVPLUCqF035TOCIfPp66GFtowbirxR0NPk.jpg",
+            "img2" : "",
+            "part1" : "When you’re fighting the bosses, you’ll get a final hit to finish them. Make sure you hit the bar when it’s in the green to pull off a special move and get the job done. It’s usually pretty easy to nail this final attack – just pay attention to the moving arrow and you’ll do just fine we’re sure.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "What can I spend the coins on?",
+            "img1" : "https://image.winudf.com/v2/image1/Y29tLndvYmJseS5saWZlLnJhZ2RvbGwud29iYmx5bGlmZS5ydWJiaW5fc2NyZWVuXzFfMTYyNzY2ODI1OV8wOTY/screen-1.jpg",
+            "img2" : "",
+            "part1" : "You can spend them on new hair styles and new outfits from the shops that appear before a fight starts. These don’t change anything other than the look of your fighter, but if you want to buy them then go nuts. You’ll also unlock new outfits as you play, and can equip them by watching a video.",
+            "part2" : ""
+        }
+    ]
+}
