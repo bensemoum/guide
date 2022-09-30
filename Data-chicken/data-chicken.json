@@ -1,0 +1,304 @@
+{
+    "config" : [
+        {
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
+            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
+            "vpn_user" : "freeopenvpn",
+            "vpn_password" : "529364450",
+
+            "int_interval" : 5,
+            "activate_ads" : "false",
+            "activate_steps" : "false",
+            "activate_step_email" : "false",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "admob",
+
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-1820435-2",
+            "yandex_int" : "R-M-1820435-3",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+
+            "iron_source_key": "12c959ebd",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },{
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "bg" : "#FBBF24"
+        },{
+            "active" : "true",
+            "name" : "spinner",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "bg" : "#A3E635"
+        },{
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "bg" : "#38BDF8"
+        },{
+            "active" : "true",
+            "name" : "questions",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "bg" : "#2DD4BF"
+        },{
+            "active" : "true",
+            "name" : "quiz",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "bg" : "#4ADE80"
+        },{
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "bg" : "#2196F3"
+        },{
+            "active" : "true",
+            "name" : "rate",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "bg" : "#3F51B5"
+        },{
+            "active" : "true",
+            "name" : "more",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
+            "bg" : "#673AB7"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Hypercasual",
+            "orientation" : "1"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        }
+
+    ],
+    
+    "scratch" : [
+        {
+            "img" : "https://w0.peakpx.com/wallpaper/899/1009/HD-wallpaper-zepeto-gay-couple-boys-cute-lgbt.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/793/678/HD-wallpaper-zepeto-game.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/263/277/HD-wallpaper-zepeto-friends-winter.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/196/165/HD-wallpaper-lollipop-iphone-iphone-11-samsung-samsung-galaxy-zepeto.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/532/360/HD-wallpaper-harley-quinn-girl-halloween-iphone-samsung-zepeto.jpg"
+        }
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432923.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432924.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432925.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432927.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432928.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432930.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/301/918/HD-wallpaper-zepeto-love-cute.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/487/129/HD-wallpaper-zepeto-gay-couple-boys-couple-cute-gay-zepeto.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/479/417/HD-wallpaper-blackpink-girl-rose-squad-zepeto.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/170/840/HD-wallpaper-fall-couple-boy-couple-cute-fall-girl-zepeto.jpg"
+        }
+    ],
+    
+    "data" : [
+        
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "MyStake Chicken Game Slot Review",
+            "img1" : "https://cdn.casinotopsonline.com/fit-in/1200x365/1651579422/chicken-game-review.jpg",
+            "img2" : "",
+            "part1" : "The Chicken Game is a simple, addictive mini game offered by MyStake Casino. It is so simple that it does not take much effort to master it. The Chicken Game is the most popular game of chance you can find at MyStake Casino along with other well-known Mini Games such as HiLo, Dice, Icefield, Keno and Dino. When you open the game, 25 plates appear in front of you, which hide symbols under them. The symbols are bones and fried chicken. The chicken symbol allows you to continue playing or exit the game with your winnings, while the dice symbol means the game is over and your bet is lost. The goal of the game is to open as many chickens as possible without revealing any of the bones.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Why we love this online slot",
+            "img1" : "https://cdn.casinotopsonline.com/fit-in/1200x365/1651579442/chicken-game-bonus.jpg",
+            "img2" : "",
+            "part1" : "The MyStake Chicken mini game is very easy to understand, players don't have to remember complex rules and symbol combinations. It's perfect for when you want to take a break from other, more intense online casino games. What is also great about this game is that you can set the difficulty level yourself and determine your chances of winning! You can choose from 1 to 24 bones, which will be randomly hidden by the system under the covers! Another plus of this mini-game is that it gives you the freedom to exit the game and cash out whenever you want. And the Provably fair algorithm allows you to personally control the outcome of the game, making it more fair.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Play Chicken Mini-Game for real money",
+            "img1" : "https://cdn.casinotopsonline.com/fit-in/1200x365/1651579442/chicken-game-bonus.jpg",
+            "img2" : "",
+            "part1" : "The “Chicken” mini-game is exclusively available at MyStake Casino and cannot be found on any other online casino site . The game is located in the Mini-games section. To start playing, you will need to create an account at the MyStake casino, it will not take more than a couple of minutes!",
+            "part2" : "If you want to play this game and win some money while you're on the road, it's absolutely possible. This mini-game, like almost all other Mystake casino slots, is available on smartphones, tablets and computers, does not require downloading and works on all mobile browsers."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Chicken Game Interface",
+            "img1" : "https://aica-italia.it/wp-content/uploads/2022/01/vignette-chicken-game-casino_c5focm.png",
+            "img2" : "",
+            "part1" : "The design of the game Chicken is extremely minimalistic, as evidenced by the category of the game itself - this is a mini-game. When you start the game, you will see a grid of 5 by 5 covered plates, for a total of 25 domes. The lids hide the only two symbols in this game - delicious fried chicken and bones. Your goal is to find chickens in order to continue the game and increase your winnings.",
+            "part2" : "- Bet - selection of bets \n - Bones - the level of difficulty, or the coefficient of winning in the game \n - Cash out button \n Next Tile Win - multiplier display \n Total - Display the total winnings \n On the right is a panel with sections “My Bets” and “High Rollers”. If you click on the “HighRollers” section, you will see the 20 most profitable bets of all users in the last 24 hours. \n Finally, in the lower right corner you have access to the chat, and in the upper right corner you have access to the timer for the time spent playing the game."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Push them into the corner",
+            "img1" : "https://sg-res.9appsdownloading.com/sg/res/jpg/be/d2/70ac2e786bcf1895942ef6d48e5d-97j2.jpg",
+            "img2" : "https://www.gamezebo.com/wp-content/uploads/2021/08/stickman-ragdoll-fighter-screenshot-landing-some-fearsome-blows.jpg",
+            "part1" : "There’s no point trying to be defensive or strategic in the fights – your first goal should be to charge your opponent and push them into the corner. Trap them there and you should be able to deliver a beatdown that’ll keep them there until their HP has hit zero.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Sounds and soundtrack",
+            "img1" : "https://aica-italia.it/wp-content/uploads/2022/01/chicken-1024x683-1.webp",
+            "img2" : "",
+            "part1" : "In terms of audio, the only soundtrack that accompanies this game is the sound of your own racing heartbeat as you open the lids to see what symbol is hiding underneath. Yes, you read that right, there is not a single sound in this game at all. Perhaps it is designed in such a way that players feel even more tension and excitement when opening the next cover, instead of playing in a relaxed way to the pace of the music.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Casino Bonus",
+            "img1" : "https://cdn.casinotopsonline.com/fit-in/1200x365/1651579442/chicken-game-bonus.jpg",
+            "img2" : "",
+            "part1" : "The chicken game is offered exclusively on MyStake, so players can use all the casino bonuses and promotions in progress to build up their bankroll and play this fun mini-game. Since you need to register and make your first deposit anyway, you automatically get the opportunity to take advantage of the MyStake Casino welcome bonus! You can even choose the most suitable reward: \n – When depositing from 20€ to 200€, a 150% bonus is provided \n – For deposits from 201€ to 1000€, a 100% bonus is provided \n In addition to the deposit welcome bonus package, you get a special mini-games welcome bonus: \n – Get 100% up to €500 – applies to all mini games – minimum deposit €20",
+            "part2" : "As you can see, MyStake is quite generous in terms of bonuses, and not limited to signup rewards, this casino has a wide range of other enticing bonuses and promotions that you can also take advantage of to keep playing the Chicken Game longer. For example, the second deposit bonus: \n – Deposits from €20 to €500 are rewarded with a 100% bonus \n However, do not forget that almost all bonuses have wagering requirements that must be met before you can withdraw your winnings. In the case of the above bonuses, a 30x wagering requirement applies to the deposit amount and bonus balance, and is given 30 days to complete. You also need to activate the bonus in your account."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Multipliers",
+            "img1" : "https://aica-italia.it/wp-content/uploads/2022/01/vignette-chicken-game-casino_c5focm.png",
+            "img2" : "",
+            "part1" : "The peculiarity of the Chicken Game is that the players themselves can determine the level of intensity of the game. Before the start of the game, you can set how many dice will be hidden under the covers, and the chances of winning depend on the number of dice. Under 25 covers, you can place from 1 bone to 24 bones. The more bones you choose, the greater the risk, and the chances of finding a chicken decrease. Of course, your goal is to avoid the bones and find the location of the chickens. So the harder it is to find a chicken, the bigger the multiplier will be applied to your bet once you find it. The more chickens you find, the higher the multiplier will be. And if you manage to find all the hidden chickens without hitting the bone, you will win the jackpot, which will give you a huge multiplier.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Cashout at any time",
+            "img1" : "https://aica-italia.it/wp-content/uploads/2022/01/chicken-1024x683-1.webp",
+            "img2" : "",
+            "part1" : "Any online casino player is always looking to win as much as possible. However, hitting the jackpot is not always possible. In the Chicken mini game, you can decide to stop playing and collect your winnings at any time. Even after you have found the first chicken, there is no need to look for the rest to get the money you win. When you feel like you've won enough, just hit the big red CASHOUT button and claim your winnings. Of course, the more chickens you find, the better for your bankroll, but remember to be careful and don't get greedy!",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Tips for Playing the Chicken Game",
+            "img1" : "https://piratefestivals.com/wp-content/uploads/2022/05/Paste-12.jpg",
+            "img2" : "",
+            "part1" : "Casino games like roulette and blackjack have to be played with a certain strategy, but in the Chicken Game there is no strategy to win every time because this game is based on a random number generator. However, by changing the number of hidden dice and exiting the game at the right time, you can minimize your chances of losing. \n By choosing a safe strategy, you can improve your chances. For example: \n Increase the number of dice to 10 or 15 and try to open two covers and find two chickens, then collect your winnings. So the odds balance out and the payoff is high enough to make a profit on just two chickens found.",
+            "part2" : "You can also adapt the Martingale strategy to work in this mini-game. To do this, you need to determine some factors that will not change during the entire game session: the stake, the number of hidden dice and the number of caps that you will open. In each game, open a certain number of caps and collect your winnings. If the die comes up and you lose, double your bet and start over. Thus, the next time you win, you will get back your bet and profit."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Chicken Game payout ratio",
+            "img1" : "https://aica-italia.it/wp-content/uploads/2022/01/chicken-1024x683-1.webp",
+            "img2" : "",
+            "part1" : "The chicken game is a great game to take a break from the more intense and challenging games. That's why we think you should try this simple yet fun mini-game: \n Chicken is a very simple game, the rules are clear even for beginners. \n The game offers big winnings - up to x10,000 of the bet amount (maximum 10 million euros) \n You can determine the intensity of the game yourself by choosing the number of hidden bones, as well as exit the game at any time. \n Bet sizes are suitable for players with any budget and range from 0.20 € to 1000 € per round. \n Thanks to the Provably Fair system, Mystake casino guarantees the fairness of the game results.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Game Provider",
+            "img1" : "https://cdn.casinotopsonline.com/fit-in/1200x365/1651579509/opinion-on-the-chicken-game.jpg",
+            "img2" : "",
+            "part1" : "The Chicken game is developed by Upgaming and is currently offered to players exclusively at Mystake Casino. Since 2014, Upgaming has been creating online gambling entertainment such as slots , mini games, E-Sports and Sportsbook. It is a reliable provider with RNG and ISO certifications that guarantee a safe environment for all players.",
+            "part2" : ""
+        },
+    ]
+}
