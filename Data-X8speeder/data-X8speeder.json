@@ -1,0 +1,286 @@
+{
+    "config" : [
+        {
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
+            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
+            "vpn_user" : "freeopenvpn",
+            "vpn_password" : "529364450",
+
+            "int_interval" : 5,
+            "activate_ads" : "false",
+            "activate_steps" : "false",
+            "activate_step_email" : "false",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "admob",
+
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-1820435-2",
+            "yandex_int" : "R-M-1820435-3",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+
+            "iron_source_key": "12c959ebd",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },{
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "bg" : "#FBBF24"
+        },{
+            "active" : "true",
+            "name" : "spinner",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "bg" : "#A3E635"
+        },{
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "bg" : "#38BDF8"
+        },{
+            "active" : "true",
+            "name" : "questions",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "bg" : "#2DD4BF"
+        },{
+            "active" : "true",
+            "name" : "quiz",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "bg" : "#4ADE80"
+        },{
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "bg" : "#2196F3"
+        },{
+            "active" : "true",
+            "name" : "rate",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "bg" : "#3F51B5"
+        },{
+            "active" : "true",
+            "name" : "more",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
+            "bg" : "#673AB7"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Hypercasual",
+            "orientation" : "1"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        }
+
+    ],
+    
+    "scratch" : [
+        {
+            "img" : "https://w0.peakpx.com/wallpaper/899/1009/HD-wallpaper-zepeto-gay-couple-boys-cute-lgbt.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/793/678/HD-wallpaper-zepeto-game.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/263/277/HD-wallpaper-zepeto-friends-winter.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/196/165/HD-wallpaper-lollipop-iphone-iphone-11-samsung-samsung-galaxy-zepeto.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/532/360/HD-wallpaper-harley-quinn-girl-halloween-iphone-samsung-zepeto.jpg"
+        }
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432923.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432924.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432925.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432927.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432928.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432930.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/301/918/HD-wallpaper-zepeto-love-cute.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/487/129/HD-wallpaper-zepeto-gay-couple-boys-couple-cute-gay-zepeto.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/479/417/HD-wallpaper-blackpink-girl-rose-squad-zepeto.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/170/840/HD-wallpaper-fall-couple-boy-couple-cute-fall-girl-zepeto.jpg"
+        }
+    ],
+    
+    "data" : [
+        
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "What is X8 Speeder?",
+            "img1" : "https://rumahkeadilan.co.id/wp-content/uploads/2022/08/apa-itu-x8-speeder.jpg",
+            "img2" : "",
+            "part1" : "This increasingly rapid technological development makes it a separate field for programmers to be able to produce an application that can modify the existing system. One application that can manipulate the system is this X8 speeder. \n So what's so special about this application? You can be sure that the X8 speeder application is able to adjust the speed of a game. Now one of the games supported by this application is Higgs Domino RP . Of course the addicts of this game can be happier to use this application.",
+            "part2" : "Because when you use this application you can easily adjust the speed according to what you want. So for those of you who often experience defeat in this game, then you will not experience defeat more often. \n This application is the work of a third party that is designed in such a way as to satisfy its users. Because you can easily slow down or speed up the tempo of the game. So you can customize it yourself to what you want."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Fitur Mod X8 Speeder Domino Island",
+            "img1" : "https://rumahkeadilan.co.id/wp-content/uploads/2022/08/x8-speeder-domino.png",
+            "img2" : "",
+            "part1" : "One thing you should know, that this application has a myriad of features that you can use to play Higgs domino. Surely some of you want to know what features you can immediately try when playing it. For that we have summarized various interesting features in it. Here we provide a brief review. \n 1. SpeedUp and Slow Down the Tempo \n The main feature of X8 Speeder is that it can speed up and slow down the tempo of the game. With this application you can easily slow down a tempo in the game, especially Higgs domino. \n So if you can set it to slow down or speed up the game, it will be easier for you to win. Besides that, you can also beat your opponents easily. This is one of the reasons why this application is in great demand by Higgs domino lovers. \n 2. Adapting to Other Games \n The next feature that you should know about this application is that it can adapt to other online games. Another word is that this application will automatically adjust which other games are safe to use. \n The steps you have to do are not too difficult, you only need to open this application first. After that it will immediately appear related to what can be supported by this X8 speeder, of course this will be very useful, right?",
+            "part2" : "3. Able to Set Speed \n The following features are still related to the main features that we discussed earlier. Well, with this speed setting feature, you can adjust the existing speed manually. That way you can set the speed between 2-8x from the original version. \n Everyone must have their own regulatory system. So that way, you can set it yourself according to your choice. The point is that you have to be able to adjust and find which speed makes you comfortable in the game. \n 4. Safe To Use \n When you use this application, we make sure it is 90% safe to use. So you don't have to worry if your account is blocked. The reason is that there are still many users who doubt this cool application. \n It is not without reason, the article is that many applications are developed by third parties that are not safe to use. Although it can be confirmed that this application is safe, it still contains risks. So be wise when you want to use it."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "X8 Speeder Application Download Link Without Ads",
+            "img1" : "https://rumahkeadilan.co.id/wp-content/uploads/2022/08/download-x8-speeder.png",
+            "img2" : "",
+            "part1" : "By already knowing the reviews and what features are contained in this application, it certainly really makes you interested in using it immediately. So, for that, you can download it immediately, because we have prepared the link for you to download.",
+            "part2" : "But the concern is, this application has two versions, namely the latest version and the old version. So you are free to choose which application you will use. In essence, these two applications have the same function."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "How to Install X8 Speeder",
+            "img1" : "https://mumu-global.fp.ps.easebar.com/file/613d4c3bf5e7bb644aaaea8bFT5vExrc02",
+            "img2" : "",
+            "part1" : "To perform the installation process on this application, it does require a special way to be able to use it. The reason is, the installation process is not like applications that come from stores such as Playstore or Appstore. So for those of you who want to know, here's the tutorial.",
+            "part2" : "1. Your first step is to open the APK file from the X8 speeder application. \n 2. Then you click one to start the installation. \n 3. After that, if the system refuses, a new page will immediately appear for changes to be made. You can activate the option in the install from unknown sources menu. \n 4. If you have done this the installation process will continue. \n 5. Then you can wait for the process to run to completion. \n 6. Open the application and use accordingly."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "How To Use X8 Speeder",
+            "img1" : "https://mumu-global.fp.ps.easebar.com/file/613d4c3bf5e7bb644aaaea8bFT5vExrc02",
+            "img2" : "",
+            "part1" : "It's incomplete if we don't tell you how to use this application. Because some of you are still confused about how to use it. You don't need to be discouraged, we have prepared the steps below. \n 1. The first step you have to make sure that this application is completely installed. \n 2. Then you can open the application. \n 3. After that, several applications or games that are supported by this application will appear. \n 4. Then you can choose one of them. \n 5. If you have chosen, then you can open the game. \n 6. Finally, you can directly modify it according to what you want.",
+            "part2" : "Now, with the end of how to use this application, our discussion on this occasion ends too about X8 Speeder. With this we really hope that you can more easily win the game when using this additional application. If you want more information, you can see the list below."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Subway Surfer",
+            "img1" : "https://i0.wp.com/lenterakecil.com/wp-content/uploads/2021/02/Kecepatan-Game.jpg",
+            "img2" : "",
+            "part1" : "The game to collect gold coins by prioritizing the accuracy and accuracy of the player. You have to collect as many gold coins as possible within the specified time. By using X8 Speeder, your character will run faster so that more gold coins will be collected.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Domino Island",
+            "img1" : "https://1.bp.blogspot.com/-G6CKKReckcs/YF5_uFQwWKI/AAAAAAAAHF0/--wxekbWGUcptxS5rhTKOQzOQi10acFVACNcBGAsYHQ/s1100/0.jpg",
+            "img2" : "",
+            "part1" : "X8 Speeder allows you to speed up the playing of card games. So you no longer need to wait for other players too long to just throw a card.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Food Fantasy",
+            "img1" : "https://liga-indonesia.id/wp-content/uploads/2021/08/Game-Food-Fantasy.jpg",
+            "img2" : "",
+            "part1" : "This RPG game with a cooking theme can also use the X8 as a supporting application. You will find it easier to collect food recipes and create a dream restaurant.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Soul Knight",
+            "img1" : "https://images-11.sosomod.me/attachments/jietu/162/jietueb06a34f849bee9de148c4607cccb2cf20220617XTyuZr.jpg",
+            "img2" : "",
+            "part1" : "Semi-roguelike survival action game is very fun to play. The way to play is quite easy. You only need to attack your opponent with the weapons you have.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Fate_GO",
+            "img1" : "https://image.winudf.com/v2/image1/Y29tLkhpZ2dzRG9taW5vLlg4U3BlZWRlci5JbnN1cmFuY2V4YWN0aW1hdGVfc2NyZWVuXzBfMTY0MjE3NTE2Nl8wNjA/screen-0.jpg",
+            "img2" : "",
+            "part1" : "Stream-based and role-playing games Fate_Go are popular games that you should play. This game has many character variants and also a choice of games that you can choose from so you won't get bored easily",
+            "part2" : ""
+        }
+    ]
+}
