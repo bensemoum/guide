@@ -1,0 +1,268 @@
+{
+    "config" : [
+        {
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
+            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
+            "vpn_user" : "freeopenvpn",
+            "vpn_password" : "529364450",
+
+            "int_interval" : 5,
+            "activate_ads" : "false",
+            "activate_steps" : "false",
+            "activate_step_email" : "false",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "admob",
+
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-1820435-2",
+            "yandex_int" : "R-M-1820435-3",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+
+            "iron_source_key": "12c959ebd",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    
+    "menu" : [
+        {
+            "active" : "true",
+            "name" : "Guide Tips",
+            "ico" : "",
+            "bg" : "#FB923C"
+        },{
+            "active" : "true",
+            "name" : "puzzle",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
+            "bg" : "#FBBF24"
+        },{
+            "active" : "true",
+            "name" : "spinner",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
+            "bg" : "#A3E635"
+        },{
+            "active" : "true",
+            "name" : "scratch",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "bg" : "#38BDF8"
+        },{
+            "active" : "true",
+            "name" : "questions",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
+            "bg" : "#2DD4BF"
+        },{
+            "active" : "true",
+            "name" : "quiz",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
+            "bg" : "#4ADE80"
+        },{
+            "active" : "true",
+            "name" : "wallpapers",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
+            "bg" : "#2196F3"
+        },{
+            "active" : "true",
+            "name" : "rate",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
+            "bg" : "#3F51B5"
+        },{
+            "active" : "true",
+            "name" : "more",
+            "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
+            "bg" : "#673AB7"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Overall",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Strategies",
+            "orientation" : "0"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Soccer",
+            "orientation" : "1"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Puzzles",
+            "orientation" : "0"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Hypercasual",
+            "orientation" : "1"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
+            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "cat" : "Arcade",
+            "orientation" : "0"
+        }
+
+    ],
+    
+    "scratch" : [
+        {
+            "img" : "https://w0.peakpx.com/wallpaper/899/1009/HD-wallpaper-zepeto-gay-couple-boys-cute-lgbt.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/793/678/HD-wallpaper-zepeto-game.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/263/277/HD-wallpaper-zepeto-friends-winter.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/196/165/HD-wallpaper-lollipop-iphone-iphone-11-samsung-samsung-galaxy-zepeto.jpg"
+        },{
+            "img" : "https://w0.peakpx.com/wallpaper/532/360/HD-wallpaper-harley-quinn-girl-halloween-iphone-samsung-zepeto.jpg"
+        }
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432923.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432924.png"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432925.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432927.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432928.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://wallpaperaccess.com/full/2432930.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/301/918/HD-wallpaper-zepeto-love-cute.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/487/129/HD-wallpaper-zepeto-gay-couple-boys-couple-cute-gay-zepeto.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/479/417/HD-wallpaper-blackpink-girl-rose-squad-zepeto.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://w0.peakpx.com/wallpaper/170/840/HD-wallpaper-fall-couple-boy-couple-cute-fall-girl-zepeto.jpg"
+        }
+    ],
+    
+    "data" : [
+        
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "getting black screen / white screen (blank screen)",
+            "img1" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-1gal_min.webp",
+            "img2" : "",
+            "part1" : "It is one of the most common problem in mobile phones and tablets. Usually when you open an app, you will see a black screen for few seconds and then app will crash with or without an error message. There are few ways to fix this problem. \n Most of the times, it might be a temporary loading issue. You just need to press the recent applications menu (usually the first left button) in your phone. Then you close the app that has this issue. Now open the app again. It may work normally. \n Try to restart your iPhone / iPad. Press the power off button for few seconds and then choose restart from the menu to restart your device.Now you can try opening the app, it may work fine.",
+            "part2" : "If none of the above working, you can wait till your phone battery drains and it turns off automatically. After that put it to charge, and press the power button. It may work after this. \n Finally, if you can't fix it with anything, you may need to uninstall the app and re-install it. iOS usually provides an option to restore settings and content from iCloud backup, if you've enabled it previously. \n Even in some rare cases, the re-install step also don't work. If that is your case, try installing older versions of the app. Good luck!"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "My IPTV Player PRO app wont load",
+            "img1" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-6gal_min.webp",
+            "img2" : "",
+            "part1" : "My IPTV Player PRO app wont load or not working properly (loading error / server error / connection error / Screen Freeze / Ping Problem). \n There are few situations that may cause the load issue in mobile apps.",
+            "part2" : "Your wifi / mobile data connection not working properly. Please check your data connection.Too many users using the app at same time. Please try after few minutes."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "I'm having IPTV Player PRO login issue",
+            "img1" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-4gal.jpg",
+            "img2" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-2gal.jpg",
+            "part1" : "I'm having IPTV Player PRO login issue or account related issues. \n If you have login or account related issue, please check the following steps.The IPTV Player PRO server may be down and that is causing the login/account issue. Please try logging in after few minutes.",
+            "part2" : "Your wifi / mobile data connection not working properly. Please check your data connection. You may be trying with wrong login credentials. Please confirm the details that you are entering is correct. If you're using third-party social networks to login such as facebook, twitter, google etc, check whether that service is working properly by visiting their official website."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "I have IPTV Player PRO app installation issues",
+            "img1" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-5gal.jpg",
+            "img2" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-5gal.jpg",
+            "part1" : "Check your wifi / internet connection for connectivity. \n Please check your mobile storage space. If you don't have enough space in your disk, the app can't be installed. \n Verify that the app you're trying to install supports your iOS version.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "My IPTV Player PRO app is not updating",
+            "img1" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-8gal.jpg",
+            "img2" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-8gal.jpg",
+            "part1" : "My IPTV Player PRO app is not updating properly in my phone. \n Please check your wifi / mobile data connection and verify that it is working properly. It may be down and stopping you from updating the IPTV Player PRO app.",
+            "part2" : "Confirm that you have enough storage space in your phone to download updates. If you don't have enough storage space, it can be blocking the app updates."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Audio / video loading problem with IPTV Player PRO",
+            "img1" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-7gal.jpg",
+            "img2" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-7gal.jpg",
+            "part1" : "Check your phone volume if you have audio problems.Try to use headphones to find out whether it is an issue with your speakers or with the app.",
+            "part2" : "If you've video loading problem, please check your internet speed and wifi connectivity."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "Notifications are not working properly",
+            "img1" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-6gal.jpg",
+            "img2" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-6gal.jpg",
+            "part1" : "IPTV Player PRO app Notifications are not working properly. \n Go to your Settings->Notifications->IPTV Player PRO and check whether notifications enabled or not. If it is not enabled, please enable it.",
+            "part2" : "Also if you don't get notification alert sounds, re-verify that you don't accidentally muted the app notification sounds."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "name" : "I don't see it added to my balance",
+            "img1" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-9gal.jpg",
+            "img2" : "https://media.cdnandroid.com/item_images/1276517/imagen-dev-iptv-player-pro-9gal.jpg",
+            "part1" : "I deposited money into IPTV Player PRO. But I don't see it added to my balance. \n It may take some time for the app company / developer to process the payment and credit to your account. Please be patient for 24-48 hours and see if the amount gets credited to your account. If not, please contact the development company using the contact details.",
+            "part2" : ""
+        }
+    ]
+}
