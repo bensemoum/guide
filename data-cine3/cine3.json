@@ -8,7 +8,7 @@
             "vpn_password" : "504853397",
 
             "int_interval" : 3,
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "9386c1c2-292f-4001-914f-4d808c77c0ac",
@@ -26,9 +26,9 @@
             "max_native" : "9e27ff985bda79be",
             "max_int" : "3805b3b693717700",
 
-            "fan_ban": "641154720855656_641155140855614",
-            "fan_native": "641154720855656_641155737522221",
-            "fan_int": "641154720855656_641155480855580",
+            "fan_ban": "617879563175158_617880069841774",
+            "fan_native": "617879563175158_617880309841750",
+            "fan_int": "617879563175158_617880619841719",
 
             "iron_source_key": "12c959ebd",
             
