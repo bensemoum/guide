@@ -7,10 +7,10 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "504853397",
 
-            "int_interval" : 3,
+            "int_interval" : 1,
             "activate_ads" : "true",
-            "activate_steps" : "false",
-            "activate_step_email" : "false",
+            "activate_steps" : "true",
+            "activate_step_email" : "true",
             "one_signal" : "9386c1c2-292f-4001-914f-4d808c77c0ac",
             "network" : "fan",
 
