@@ -219,6 +219,36 @@
             "link" : "https://play.google.com/store/apps/details?id=tk.teken7.guTken3Fight",
             "cat" : "Arcade",
             "orientation" : "1"
+        },{
+            "name" : "My11Circle Team",
+            "ico" : "https://play-lh.googleusercontent.com/wNTsM_fXgQGvJupMlwyogqiHyp7PLujCwXk8mi-Kn5BAwU9chhrK27fVqZxwfbDd4Fc=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=ks.apps.My11Circle",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "GameGuardian",
+            "ico" : "https://play-lh.googleusercontent.com/vqxzi47h29vSLU_azYSDrn4kxZreauc7fZwKUPz-rEjq2FHKhQkYQL0zdO6F6DnbszMB=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.gameguardian.luluboxskin",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Splatoon 3",
+            "ico" : "https://play-lh.googleusercontent.com/KBaD_UPpSGax_ESe3ngr6t3AF9BARwGblg3bclpCkBhy0LivvYifz9e6xBrQJmHgIAhO=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=tips.splatoon.tricks.hints",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Chicken mini Game",
+            "ico" : "https://play-lh.googleusercontent.com/GQ8vL7KinbDeqy0oW9R6Zs6slNUeP6q9U4VkfgI_0dfTuMpX-znOJMAslwqJK3dcYw=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=casino.mystakechicken.chickenminigame",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Rainbow Friends",
+            "ico" : "https://play-lh.googleusercontent.com/b1kniUUZRtzjQe2EJhZ837w_TrwYWRT6gorJW0h1U3gYHCwz1nxeARDIQwrPW324gjyN=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.mcperainbow.friendsfnf.mod",
+            "cat" : "Arcade",
+            "orientation" : "1"
         }
 
     ],
