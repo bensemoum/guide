@@ -40,11 +40,6 @@
     "menu" : [
         {
             "active" : "true",
-            "name" : "CineVision Tips",
-            "ico" : "",
-            "bg" : "#DC0609"
-        },{
-            "active" : "true",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#DC0609"
@@ -57,6 +52,11 @@
             "active" : "true",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
+            "bg" : "#DC0609"
+        },{
+            "active" : "true",
+            "name" : "CineVision Tips",
+            "ico" : "",
             "bg" : "#DC0609"
         },{
             "active" : "true",
