@@ -5,22 +5,22 @@
             "activate_force_vpn" : "false",
             "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
             "vpn_user" : "freeopenvpn",
-            "vpn_password" : "504853397",
+            "vpn_password" : "908340838",
 
             "int_interval" : 1,
             "activate_ads" : "true",
             "activate_steps" : "true",
             "activate_step_email" : "true",
-            "one_signal" : "9386c1c2-292f-4001-914f-4d808c77c0ac",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
 
             "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
             "admob_int" : "ca-app-pub-3940256099942544/1033173712",
             
-            "yandex_ban" : "R-M-1820435-1",
-            "yandex_native" : "R-M-1820435-2",
-            "yandex_int" : "R-M-1820435-3",
+            "yandex_ban" : "R-M-1968155-1",
+            "yandex_native" : "R-M-1968155-2",
+            "yandex_int" : "R-M-1968155-3",
 
             "max_ban" : "ceda1a6dd62a0502",
             "max_native" : "9e27ff985bda79be",
@@ -40,157 +40,284 @@
     "menu" : [
         {
             "active" : "true",
-            "name" : "Guide Tips",
+            "name" : "CineVision Tips",
             "ico" : "",
-            "bg" : "#c61d0a"
+            "bg" : "#DC0609"
         },{
             "active" : "true",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
-            "bg" : "#FBBF24"
+            "bg" : "#DC0609"
         },{
             "active" : "true",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
-            "bg" : "#A3E635"
+            "bg" : "#DC0609"
         },{
             "active" : "true",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
-            "bg" : "#38BDF8"
+            "bg" : "#DC0609"
         },{
             "active" : "true",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
-            "bg" : "#2DD4BF"
+            "bg" : "#DC0609"
         },{
             "active" : "true",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
-            "bg" : "#4ADE80"
+            "bg" : "#DC0609"
         },{
             "active" : "true",
             "name" : "wallpapers",
             "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
-            "bg" : "#2196F3"
+            "bg" : "#DC0609"
         },{
             "active" : "true",
             "name" : "rate",
             "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
-            "bg" : "#3F51B5"
+            "bg" : "#DC0609"
         },{
             "active" : "true",
             "name" : "more",
             "ico" : "https://img.icons8.com/ios/130/ffffff/emu4ios.png",
-            "bg" : "#673AB7"
+            "bg" : "#DC0609"
         }
     ],
     
     "more" : [
         {
-            "name" : "Snake.io: Fun Snake .io Games",
-            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "name" : "Amoled Pro: Filmes & Series Always On Display",
+            "ico" : "https://play-lh.googleusercontent.com/lmSBQK-8lJkBeOnW5q5fTEdfo7vclnohVgct3kSeDSjsl71hAkgQS-efnV8qluklNQ=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=free.amoled.clock.always.on.display.screen.wallpaper.iphone14",
             "cat" : "Overall",
             "orientation" : "1"
         },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "name" : "GO Tube: Filmes & Series Block Ads on Video",
+            "ico" : "https://play-lh.googleusercontent.com/Mn0nm6Q2arnzZAtpgNCSgOuPzS14LrX86N8vf0aX8xUxCQHDwoumR0J0s1-QpiqFyg=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
             "cat" : "Strategies",
             "orientation" : "0"
         },{
-            "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "name" : "IPTV Free",
+            "ico" : "https://play-lh.googleusercontent.com/utRUqsXFYmN7WlgzeanPYESWd2y0JaZ3Gy05P_QFn3F4LZ52KXm69VnzsyQuxs-uB2w=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=tv.iptv.player.devcoder.devoiptvplayer",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Prank Me: Filmes & Series Sound Fart Air Horn!",
+            "ico" : "https://play-lh.googleusercontent.com/7XX_iRJFjpScbrhrR-5sMkno4ucoMeW85YVWnONlgH1m2BtkNEtD7Vvs3eJgC7vBfA=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=airhorn.pranksound.fartprank.hairclipper.siren",
             "cat" : "Soccer",
             "orientation" : "1"
         },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "name" : "CineVision : V6",
+            "ico" : "https://play-lh.googleusercontent.com/pgl5csi0TyHat1Xlz3mJER1SieeQGuq5G_yx9o6FNFbGkp2tAMY6DDSO_AWlHtZjdA=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.cine.tv.helper",
             "cat" : "Arcade",
             "orientation" : "1"
         },{
-            "name" : "Cat Escape",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "name" : "CineVision : V4",
+            "ico" : "https://play-lh.googleusercontent.com/ecYBVT6x8xGc-hg0AsNyj7TsowYVsd8XbpDORviFTzyrWguViECLMOc52lOOravqeYY=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=v4.cinevisionmovie.tvshow2022",
             "cat" : "Puzzles",
             "orientation" : "0"
         },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/MxjwN1rZMFqrM5VJbJVJHOdOIKcAXMgbFJZG1RmD1TgWTouOZ7tqwo30zonDulgqiA6y=s300-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-            "cat" : "Hypercasual",
+            "name" : "CineVision : V5",
+            "ico" : "https://play-lh.googleusercontent.com/pgl5csi0TyHat1Xlz3mJER1SieeQGuq5G_yx9o6FNFbGkp2tAMY6DDSO_AWlHtZjdA=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.cine.tv.helper",
+            "cat" : "Arcade",
             "orientation" : "1"
         },{
-            "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/5LIMaa7WTNy34bzdFhBETa2MRj7mFJZWb8gCn_uyxQkUvFx_uOFCeQjcK16c6WpBA3E=s300-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "name" : "CineVision : V7",
+            "ico" : "https://play-lh.googleusercontent.com/JaR5ESm-6TukB7YFbVsQF9khC3Y9orBEQeBEPwQgFl5VEbsRypidfrimwqPEHLnWgw5Y=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=v4.cinevisionmoviesandshows2022.tips.free",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Pikashow - Picasso Movies",
+            "ico" : "https://play-lh.googleusercontent.com/LFQYCl6XkbWkJqt35gzWuiUHG13SCEVhdwtYDbI8PcY6OOQKP-oEPmRr9jjlcLt07Ws=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=tv.pikashowpicasso.movies.tips",
             "cat" : "Arcade",
             "orientation" : "0"
+        },{
+            "name" : "Power Yoga",
+            "ico" : "https://play-lh.googleusercontent.com/3Q330K1PYUdgHBugzEgfB8gXb6Zf3-FAIbFnkSh4Ztdd57Sp0jicMq7O3DNe5lMCVw=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=yoga.yogaworkout.dailyyoga.loseweight",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "APKpure",
+            "ico" : "https://play-lh.googleusercontent.com/3-4qt4nAMYANMUutl7jjsrqR4bwG4rP4MnMlI7dxRLneC_iq2q73H1qIosTLh-XMBw=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=apk.file.manger.downloader",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Zepeto",
+            "ico" : "https://play-lh.googleusercontent.com/5F8ehsQPjCy2QrcaDQn1key7MnlqdL6Bar8odcrwPAf2gynTwSb6XVindrJ7fpT8ZGU=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=zepeto.walkthrough.zepetotips",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Aptoide",
+            "ico" : "https://play-lh.googleusercontent.com/tXfWwhS-4DPS3nksiH6ncQwL10CHljYoPcqr3-rb8cXBarXU49VKGI56of7iZMp2r1I=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=app.toide.download.games",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Toca Boca World",
+            "ico" : "https://play-lh.googleusercontent.com/GYElLnv1GlXo5zsXxZhlRYhvWyk8K7_CSfT9hRvHkYWfWBeZymKoa14TLxWtJbh08NoO=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.apps.tocatips",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Night at the Gate of Hell",
+            "ico" : "https://play-lh.googleusercontent.com/lBkHhH9PON8vbqluH9hF0p3uK-ZBg7QGRk8YBYHvq6ciOVd9fgrCbodyF_XaVtHIOZx2=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.night.at.the.gates.of.hell.tips",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Craft World Master",
+            "ico" : "https://play-lh.googleusercontent.com/_FRDLtp_BuB4H1K0COu5TLEUhgDDhFDRq5CN6yPvgfsyVKy1W3DLj22xr_FsGvHB05k3=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=craft.world.builder.craftsman",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Power Yoga",
+            "ico" : "https://play-lh.googleusercontent.com/3Q330K1PYUdgHBugzEgfB8gXb6Zf3-FAIbFnkSh4Ztdd57Sp0jicMq7O3DNe5lMCVw=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=yoga.yogaworkout.dailyyoga.loseweight",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Wobbly Life Stick Ragdoll",
+            "ico" : "https://play-lh.googleusercontent.com/d5mk9OrAlRxZ8t8BF85ssJnIDkMmIf-XMobYMBVKBtA2TqC3T2PzA1URr7ckznleilc=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=tips.wobblylife.ragdollsticklife",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "AltWorld - Meet & Play",
+            "ico" : "https://play-lh.googleusercontent.com/gIrF4YCFLW-HlJ95mngrASMakjcyqzQ33ANtmMc4AcBr1FFlqLUa1zpTICOVCl6UUZW0=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=game3d.altworld.meetandplay",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Genshin Impact",
+            "ico" : "https://play-lh.googleusercontent.com/n0eC3wIl29er_JI_2Av3sFT7qb8uWTH93ph-pajtRs6I8z74jMW-5Zf3memIKQD599c7=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=pro.tipsofgenshin.guideimpact",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Free fire : Skin Tool",
+            "ico" : "https://play-lh.googleusercontent.com/JY_s1TI_8zKyKR1inRKA6B2hS8Kz4ekc_i0wnlaJvcFb9OOAn6KK93xaWmPAorgyoWgW=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=ff.skintool.freefiree.freediamond",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "GTA V : Cheats & Codes",
+            "ico" : "https://play-lh.googleusercontent.com/7DPBY-4hoR4y1peVoYXELiupLkEuWDmtI8M72sVcKIxdumWkdZ5y9Dt4DEtKvhoyaw=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=five.gtacodes.gtacheat",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Tekken 8 - 2022",
+            "ico" : "https://play-lh.googleusercontent.com/em2R6Yu0ANqM2kvUdb6lZwti-6OxdlGk4eDGEtbWY1SXUnriaA1B3IAyvDiZ3J4_ew=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=tk.teken7.guTken3Fight",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "My11Circle Team",
+            "ico" : "https://play-lh.googleusercontent.com/wNTsM_fXgQGvJupMlwyogqiHyp7PLujCwXk8mi-Kn5BAwU9chhrK27fVqZxwfbDd4Fc=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=ks.apps.My11Circle",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "GameGuardian",
+            "ico" : "https://play-lh.googleusercontent.com/vqxzi47h29vSLU_azYSDrn4kxZreauc7fZwKUPz-rEjq2FHKhQkYQL0zdO6F6DnbszMB=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.gameguardian.luluboxskin",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Splatoon 3",
+            "ico" : "https://play-lh.googleusercontent.com/KBaD_UPpSGax_ESe3ngr6t3AF9BARwGblg3bclpCkBhy0LivvYifz9e6xBrQJmHgIAhO=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=tips.splatoon.tricks.hints",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Chicken mini Game",
+            "ico" : "https://play-lh.googleusercontent.com/GQ8vL7KinbDeqy0oW9R6Zs6slNUeP6q9U4VkfgI_0dfTuMpX-znOJMAslwqJK3dcYw=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=casino.mystakechicken.chickenminigame",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Rainbow Friends",
+            "ico" : "https://play-lh.googleusercontent.com/b1kniUUZRtzjQe2EJhZ837w_TrwYWRT6gorJW0h1U3gYHCwz1nxeARDIQwrPW324gjyN=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.mcperainbow.friendsfnf.mod",
+            "cat" : "Arcade",
+            "orientation" : "1"
         }
 
     ],
     
     "scratch" : [
         {
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
+            "img" : "https://w0.peakpx.com/wallpaper/899/1009/HD-wallpaper-zepeto-gay-couple-boys-cute-lgbt.jpg"
         },{
-            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
+            "img" : "https://w0.peakpx.com/wallpaper/793/678/HD-wallpaper-zepeto-game.jpg"
         },{
-            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
+            "img" : "https://w0.peakpx.com/wallpaper/263/277/HD-wallpaper-zepeto-friends-winter.jpg"
         },{
-            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
+            "img" : "https://w0.peakpx.com/wallpaper/196/165/HD-wallpaper-lollipop-iphone-iphone-11-samsung-samsung-galaxy-zepeto.jpg"
         },{
-            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
+            "img" : "https://w0.peakpx.com/wallpaper/532/360/HD-wallpaper-harley-quinn-girl-halloween-iphone-samsung-zepeto.jpg"
         }
     ],
 
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://static.gameloop.com/syzs_cms/202205/5035ba8cb44bef82574246a7068b72f2.jpeg?imageMogr2/thumbnail/412x675/format/webp"
+            "img" : "https://wallpaperaccess.com/full/2432923.jpg"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/temporada-2-de-fall-guys-6435.jpg"
+            "img" : "https://wallpaperaccess.com/full/2432924.png"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/originals/79/e9/9f/79e99f9248326b26915b30efd53f1a4d.jpg"
+            "img" : "https://wallpaperaccess.com/full/2432925.jpg"
         },
         {
             "name" : "",
-            "img" : "https://wallpapercave.com/wp/wp10366312.jpg"
+            "img" : "https://wallpaperaccess.com/full/2432927.jpg"
         },
         {
             "name" : "",
-            "img" : "https://i.pinimg.com/originals/a9/ef/55/a9ef55219afb7bc0bfd601e4716dfb26.jpg"
+            "img" : "https://wallpaperaccess.com/full/2432928.jpg"
         },
         {
             "name" : "",
-            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
+            "img" : "https://wallpaperaccess.com/full/2432930.jpg"
         },
         {
             "name" : "",
-            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
+            "img" : "https://w0.peakpx.com/wallpaper/301/918/HD-wallpaper-zepeto-love-cute.jpg"
         },
         {
             "name" : "",
-            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
+            "img" : "https://w0.peakpx.com/wallpaper/487/129/HD-wallpaper-zepeto-gay-couple-boys-couple-cute-gay-zepeto.jpg"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
+            "img" : "https://w0.peakpx.com/wallpaper/479/417/HD-wallpaper-blackpink-girl-rose-squad-zepeto.jpg"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
+            "img" : "https://w0.peakpx.com/wallpaper/170/840/HD-wallpaper-fall-couple-boy-couple-cute-fall-girl-zepeto.jpg"
         }
     ],
     
     "data" : [
+        
         {
             "url" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
             "urlimg" : "https://bensemoum.github.io/guide/data-cineUpdated/button.png",
@@ -201,7 +328,7 @@
             "part2" : "VirusTotal did not find any suspicious files pertaining to viruses/malware within the Cine Vision V4 APK file. However, we should always protect ourselves when streaming content from this 3rd party app. We strongly recommend using a VPN with these unverified streaming apps. "
         },
         {
-           "url" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
+            "url" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
             "urlimg" : "https://bensemoum.github.io/guide/data-cineUpdated/button.png",
             "name" : "Cine Vision Highlights",
             "img1" : "https://bensemoum.github.io/guide/cine-vision-Data/cenivision.webp",
@@ -210,7 +337,7 @@
             "part2" : ""
         },
         {
-          "url" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
+            "url" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
             "urlimg" : "https://bensemoum.github.io/guide/data-cineUpdated/button.png",
             "name" : "How to Install Cine Vision on Firestick/Android",
             "img1" : "https://bensemoum.github.io/guide/cine-vision-Data/cenivision.webp",
@@ -219,13 +346,13 @@
             "part2" : "After installing the Downloader app, follow the steps below for installing Cine Vision on Firestick/Fire TV and Android devices. This streaming app can also be found within various codes on Applinked, Unlinked, or FileSynced. \n 1 - Launch the Downloader app. \n 2 - Enter the following Downloader code – 553404 and click Go. \n 3 - Wait for the app to download. \n 4 - Click Install. \n 5 - Click Open or Done. \n 6 - Launch the application and if this message appears click OK. \n 7 - That’s it! You have successfully installed Cine Vision V4 APK on your Firestick. \n Enjoy! Continue reading below for more features and information."
         },
         {
-           "url" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
+            "url" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
             "urlimg" : "https://bensemoum.github.io/guide/data-cineUpdated/button.png",
             "name" : "Warning! Protect Yourself With Surfshark VPN",
             "img1" : "https://bensemoum.github.io/guide/cine-vision-Data/cenivision.webp",
             "img2" : "https://image.winudf.com/v2/image1/Y29tLmVhc3lmc3ZmLmZpbG1lc2NpbmV2aXNpb252NV9zY3JlZW5fNF8xNjUyMTMyODQ3XzA2Mw/screen-4.jpg?fakeurl=1&type=.webp",
             "part1" : "Most cord-cutters use a VPN and rightfully so. Some IPTV services and app developers have been tied to organized crime and you don't want your identifying IP Address in their hands. Without a VPN, your IP Address is being logged. Your IP Address points back to your location and identity which compromises both your privacy and security.",
-            "part2" : "A VPN will provide you with an anonymous connection to the Internet. This will prevent IPTV developers, Internet provider, government agencies, and any 3rd party from logging what you're accessing online. The most popular VPN among cord-cutters is Surfshark due to their blazing fast speeds and zero log policy. It's important to use a VPN that is fast since we are streaming large HD files. Its also crucial to find one that keeps no logs of what their subscribers access while online. Setting up Surfshark on your streaming device is simple! Step 1 Register for an Surfshark VPN account by clicking the link below. \n Step 2 - Go to Find and then click the search icon on your Firestick, Fire TV, or Fire TV Cube. You may also find the Surfshark VPN App in the Google Play Store for those of you who are using Android TV Boxes, phones, and tablets. \n Step 3 - Type Surfshark and then click the Surfshark VPN option that appears. \n Step 4 - Click the Surfshark icon under Apps & Games. \n Step 5 - Click Download. \n Step 6 - Click Open. \n Step 7 - Click Log in. \n Step 8 - Enter your username and password to login. Your username is the email that you used to register for Surfshark service with and your password is automatically generated and emailed to you. \n Step 9 – Click the Fastest location option. \n Step 10 – Click OK for Connection request if it appears. \n Step 11 – You will notice that your IP Address changes along with location of connection. You are now operating anonymously through your device. \n Click the Home Button on your remote and the VPN will remain running in the background. Congratulations! You are now protected by Surfshark VPN which means everything that you stream or access through your Firestick or Android TV Box is hidden from the rest of the world. If you ever need to stop the VPN service, simply re-launch the application and click the DISCONNECT button. "
+            "part2" : "A VPN will provide you with an anonymous connection to the Internet. This will prevent IPTV developers, Internet provider, government agencies, and any 3rd party from logging what you re accessing online. The most popular VPN among cord-cutters is Surfshark due to their blazing fast speeds and zero log policy. It s important to use a VPN that is fast since we are streaming large HD files. Its also crucial to find one that keeps no logs of what their subscribers access while online. Setting up Surfshark on your streaming device is simple! Step 1 Register for an Surfshark VPN account by clicking the link below. \n Step 2 - Go to Find and then click the search icon on your Firestick, Fire TV, or Fire TV Cube. You may also find the Surfshark VPN App in the Google Play Store for those of you who are using Android TV Boxes, phones, and tablets. \n Step 3 - Type Surfshark and then click the Surfshark VPN option that appears. \n Step 4 - Click the Surfshark icon under Apps & Games. \n Step 5 - Click Download. \n Step 6 - Click Open. \n Step 7 - Click Log in. \n Step 8 - Enter your username and password to login. Your username is the email that you used to register for Surfshark service with and your password is automatically generated and emailed to you. \n Step 9 – Click the Fastest location option. \n Step 10 – Click OK for Connection request if it appears. \n Step 11 – You will notice that your IP Address changes along with location of connection. You are now operating anonymously through your device. \n Click the Home Button on your remote and the VPN will remain running in the background. Congratulations! You are now protected by Surfshark VPN which means everything that you stream or access through your Firestick or Android TV Box is hidden from the rest of the world. If you ever need to stop the VPN service, simply re-launch the application and click the DISCONNECT button."
         },
         {
            "url" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
@@ -246,7 +373,7 @@
             "part2" : ""
         },
         {
-           "url" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
+            "url" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
             "urlimg" : "https://bensemoum.github.io/guide/data-cineUpdated/button.png",
             "name" : "Is Cine Vision APK Legal?",
             "img1" : "https://bensemoum.github.io/guide/cine-vision-Data/cenivision.webp",
@@ -255,7 +382,7 @@
             "part2" : ""
         },
         {
-            "url" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
+           "url" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
             "urlimg" : "https://bensemoum.github.io/guide/data-cineUpdated/button.png",
             "name" : "Is Cine Vision APK Safe? ",
             "img1" : "https://bensemoum.github.io/guide/cine-vision-Data/cenivision.webp",
@@ -272,6 +399,5 @@
             "part1" : "This app is available for installation on tons of devices including the Amazon Firestick which is the most popular streaming device available. Users can also download on Android and more. ",
             "part2" : ""
         }
-       
     ]
 }
