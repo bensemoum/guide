@@ -9,8 +9,8 @@
 
             "int_interval" : 3,
             "activate_ads" : "true",
-            "activate_steps" : "false",
-            "activate_step_email" : "false",
+            "activate_steps" : "true",
+            "activate_step_email" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
 
@@ -27,8 +27,8 @@
             "max_int" : "3805b3b693717700",
 
             "fan_ban": "1259441454908615_1259441958241898",
-            "fan_native": "1259441454908615_1259442488241845",
-            "fan_int": "1259441454908615_1259442834908477",
+            "fan_native": "1259441454908615_1259442834908477",
+            "fan_int": "1259441454908615_1259442488241845",
 
             "iron_source_key": "12c959ebd",
             
