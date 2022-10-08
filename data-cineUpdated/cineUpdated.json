@@ -40,9 +40,9 @@
     "menu" : [
         {
             "active" : "true",
-            "name" : "Tips",
+            "name" : "Guide Tips",
             "ico" : "",
-            "bg" : "#Fda0909"
+            "bg" : "#FB923C"
         },{
             "active" : "true",
             "name" : "puzzle",
