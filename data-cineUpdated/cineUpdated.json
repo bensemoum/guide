@@ -88,7 +88,7 @@
     
     "more" : [
         {
-            "name" : "Amoled Pro: Always On Display",
+            "name" : "Amoled Pro: Filmes & Series Always On Display",
             "ico" : "https://play-lh.googleusercontent.com/lmSBQK-8lJkBeOnW5q5fTEdfo7vclnohVgct3kSeDSjsl71hAkgQS-efnV8qluklNQ=w480-h960-rw",
             "link" : "https://play.google.com/store/apps/details?id=free.amoled.clock.always.on.display.screen.wallpaper.iphone14",
             "cat" : "Overall",
@@ -100,7 +100,13 @@
             "cat" : "Strategies",
             "orientation" : "0"
         },{
-            "name" : "Prank Me: Sound Fart Air Horn!",
+            "name" : "IPTV Free",
+            "ico" : "https://play-lh.googleusercontent.com/utRUqsXFYmN7WlgzeanPYESWd2y0JaZ3Gy05P_QFn3F4LZ52KXm69VnzsyQuxs-uB2w=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=tv.iptv.player.devcoder.devoiptvplayer",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Prank Me: Filmes & Series Sound Fart Air Horn!",
             "ico" : "https://play-lh.googleusercontent.com/7XX_iRJFjpScbrhrR-5sMkno4ucoMeW85YVWnONlgH1m2BtkNEtD7Vvs3eJgC7vBfA=w480-h960-rw",
             "link" : "https://play.google.com/store/apps/details?id=airhorn.pranksound.fartprank.hairclipper.siren",
             "cat" : "Soccer",
@@ -129,6 +135,90 @@
             "link" : "https://play.google.com/store/apps/details?id=tv.pikashowpicasso.movies.tips",
             "cat" : "Arcade",
             "orientation" : "0"
+        },{
+            "name" : "Power Yoga",
+            "ico" : "https://play-lh.googleusercontent.com/3Q330K1PYUdgHBugzEgfB8gXb6Zf3-FAIbFnkSh4Ztdd57Sp0jicMq7O3DNe5lMCVw=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=yoga.yogaworkout.dailyyoga.loseweight",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "APKpure",
+            "ico" : "https://play.google.com/store/apps/details?id=apk.file.manger.downloader",
+            "link" : "https://play-lh.googleusercontent.com/3-4qt4nAMYANMUutl7jjsrqR4bwG4rP4MnMlI7dxRLneC_iq2q73H1qIosTLh-XMBw=w480-h960-rw",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Zepeto",
+            "ico" : "https://play-lh.googleusercontent.com/5F8ehsQPjCy2QrcaDQn1key7MnlqdL6Bar8odcrwPAf2gynTwSb6XVindrJ7fpT8ZGU=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=zepeto.walkthrough.zepetotips",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Aptoide",
+            "ico" : "https://play-lh.googleusercontent.com/tXfWwhS-4DPS3nksiH6ncQwL10CHljYoPcqr3-rb8cXBarXU49VKGI56of7iZMp2r1I=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=app.toide.download.games",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Toca Boca World",
+            "ico" : "https://play-lh.googleusercontent.com/GYElLnv1GlXo5zsXxZhlRYhvWyk8K7_CSfT9hRvHkYWfWBeZymKoa14TLxWtJbh08NoO=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.apps.tocatips",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Night at the Gate of Hell",
+            "ico" : "https://play-lh.googleusercontent.com/lBkHhH9PON8vbqluH9hF0p3uK-ZBg7QGRk8YBYHvq6ciOVd9fgrCbodyF_XaVtHIOZx2=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.night.at.the.gates.of.hell.tips",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Craft World Master",
+            "ico" : "https://play-lh.googleusercontent.com/_FRDLtp_BuB4H1K0COu5TLEUhgDDhFDRq5CN6yPvgfsyVKy1W3DLj22xr_FsGvHB05k3=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=craft.world.builder.craftsman",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Power Yoga",
+            "ico" : "https://play-lh.googleusercontent.com/3Q330K1PYUdgHBugzEgfB8gXb6Zf3-FAIbFnkSh4Ztdd57Sp0jicMq7O3DNe5lMCVw=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=yoga.yogaworkout.dailyyoga.loseweight",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Wobbly Life Stick Ragdoll",
+            "ico" : "https://play-lh.googleusercontent.com/d5mk9OrAlRxZ8t8BF85ssJnIDkMmIf-XMobYMBVKBtA2TqC3T2PzA1URr7ckznleilc=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=tips.wobblylife.ragdollsticklife",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "AltWorld - Meet & Play",
+            "ico" : "https://play-lh.googleusercontent.com/gIrF4YCFLW-HlJ95mngrASMakjcyqzQ33ANtmMc4AcBr1FFlqLUa1zpTICOVCl6UUZW0=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=game3d.altworld.meetandplay",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Genshin Impact",
+            "ico" : "https://play-lh.googleusercontent.com/n0eC3wIl29er_JI_2Av3sFT7qb8uWTH93ph-pajtRs6I8z74jMW-5Zf3memIKQD599c7=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=pro.tipsofgenshin.guideimpact",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Free fire : Skin Tool",
+            "ico" : "https://play-lh.googleusercontent.com/JY_s1TI_8zKyKR1inRKA6B2hS8Kz4ekc_i0wnlaJvcFb9OOAn6KK93xaWmPAorgyoWgW=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=ff.skintool.freefiree.freediamond",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "GTA V : Cheats & Codes",
+            "ico" : "https://play-lh.googleusercontent.com/7DPBY-4hoR4y1peVoYXELiupLkEuWDmtI8M72sVcKIxdumWkdZ5y9Dt4DEtKvhoyaw=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=five.gtacodes.gtacheat",
+            "cat" : "Arcade",
+            "orientation" : "1"
+        },{
+            "name" : "Tekken 8 - 2022",
+            "ico" : "https://play-lh.googleusercontent.com/em2R6Yu0ANqM2kvUdb6lZwti-6OxdlGk4eDGEtbWY1SXUnriaA1B3IAyvDiZ3J4_ew=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=tk.teken7.guTken3Fight",
+            "cat" : "Arcade",
+            "orientation" : "1"
         }
 
     ],
