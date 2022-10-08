@@ -47,12 +47,12 @@
             "active" : "true",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
-            "bg" : "#FBBF24"
+            "bg" : "#DC0609"
         },{
             "active" : "true",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
-            "bg" : "#FBBF24"
+            "bg" : "#DC0609"
         },{
             "active" : "true",
             "name" : "scratch",
