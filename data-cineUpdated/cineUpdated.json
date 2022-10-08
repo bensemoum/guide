@@ -40,9 +40,9 @@
     "menu" : [
         {
             "active" : "true",
-            "name" : "Guide Tips",
+            "name" : "Cine Vision",
             "ico" : "",
-            "bg" : "#FB923C"
+            "bg" : "#Fda0909"
         },{
             "active" : "true",
             "name" : "puzzle",
@@ -94,7 +94,7 @@
             "cat" : "Overall",
             "orientation" : "1"
         },{
-            "name" : "GO Tube: Block Ads on Video",
+            "name" : "GO Tube: Filmes & Series Block Ads on Video",
             "ico" : "https://play-lh.googleusercontent.com/Mn0nm6Q2arnzZAtpgNCSgOuPzS14LrX86N8vf0aX8xUxCQHDwoumR0J0s1-QpiqFyg=w480-h960-rw",
             "link" : "https://play.google.com/store/apps/details?id=free.go.tube.videos.advanced",
             "cat" : "Strategies",
