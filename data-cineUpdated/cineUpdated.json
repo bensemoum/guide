@@ -4,7 +4,7 @@
             "activate_vpn" : "true",
             "activate_force_vpn" : "true",
             "vpn_path" : "https://bensemoum.github.io/guide/data-cineUpdated/NL - Amsterdam 1 (UDP).ovpn",
-            "vpn_user" : "Sofian",
+            "vpn_user" : "dupont.laurent.michel.maree@gmail.com",
             "vpn_password" : "Free@2022",
 
             "int_interval" : 3,
