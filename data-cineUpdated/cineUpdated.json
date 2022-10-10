@@ -3,7 +3,7 @@
         {
             "activate_vpn" : "true",
             "activate_force_vpn" : "true",
-            "vpn_path" : "https://bensemoum.github.io/guide/data-cineUpdated/UK_freeopenvpn_tcp.ovpn",
+            "vpn_path" : "https://bensemoum.github.io/guide/data-cineUpdated/UK_freeopenvpn_tcp.txt",
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "069613501",
 
