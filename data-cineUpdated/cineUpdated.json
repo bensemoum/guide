@@ -1,8 +1,8 @@
 {
     "config" : [
         {
-            "activate_vpn" : "true",
-            "activate_force_vpn" : "true",
+            "activate_vpn" : "false",
+            "activate_force_vpn" : "false",
             "vpn_path" : "https://bensemoum.github.io/guide/data-cineUpdated/Russia-2_freeopenvpn_tcp.ovpn",
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "438852298",
