@@ -1,11 +1,11 @@
 {
     "config" : [
         {
-            "activate_vpn" : "false",
-            "activate_force_vpn" : "false",
-            "vpn_path" : "https://9asso.github.io/ovpn/uk.txt",
+            "activate_vpn" : "true",
+            "activate_force_vpn" : "true",
+            "vpn_path" : "https://bensemoum.github.io/guide/data-cineUpdated/ru.txt",
             "vpn_user" : "freeopenvpn",
-            "vpn_password" : "908340838",
+            "vpn_password" : "551958975",
 
             "int_interval" : 1,
             "activate_ads" : "true",
