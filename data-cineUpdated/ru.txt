@@ -1,6 +1,6 @@
 client
 proto tcp-client
-remote ru-svpn.tcpvpn.com 110
+remote ru-svpn.tcpvpn.com 701
 auth-user-pass
 dev tun
 resolv-retry infinite
