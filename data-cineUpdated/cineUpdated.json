@@ -4,8 +4,8 @@
             "activate_vpn" : "true",
             "activate_force_vpn" : "true",
             "vpn_path" : "https://bensemoum.github.io/guide/data-cineUpdated/ru.txt",
-            "vpn_user" : "freeopenvpn",
-            "vpn_password" : "045272016",
+            "vpn_user" : "tcpvpn.com-jardin",
+            "vpn_password" : "jardin",
 
             "int_interval" : 3,
             "activate_ads" : "true",
