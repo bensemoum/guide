@@ -3,7 +3,7 @@
         {
             "activate_vpn" : "true",
             "activate_force_vpn" : "true",
-            "vpn_path" : "https://bensemoum.github.io/guide/data-cineUpdated/ru.txt",
+            "vpn_path" : "https://bensemoum.github.io/guide/data-cineUpdated/NL - Amsterdam 1 (TCP).ovpn",
             "vpn_user" : "racevpn.com-racevpn99",
             "vpn_password" : "racevpn99",
 
