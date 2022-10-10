@@ -4,8 +4,8 @@
             "activate_vpn" : "true",
             "activate_force_vpn" : "true",
             "vpn_path" : "https://bensemoum.github.io/guide/data-cineUpdated/ru.txt",
-            "vpn_user" : "freevpn4you",
-            "vpn_password" : "7739420",
+            "vpn_user" : "freeopenvpn",
+            "vpn_password" : "045272016",
 
             "int_interval" : 3,
             "activate_ads" : "true",
