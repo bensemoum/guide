@@ -3,7 +3,7 @@
         {
             "activate_ads" : "true",
             
-            "network" : "admob",
+            "network" : "fan",
 
             "one_signal" : "000000000",
             
@@ -35,8 +35,8 @@
             "ad_int_interval" : 5,
             "score_rating_reward" : 5,
 
-            "orientation": "Portrait",
-            "game_link": "https://html5.gamedistribution.com/90d708b11a71494cb6cca14c6872b590/?gd_sdk_referrer_url=https://gamedistribution.com/games/wugy-halloweentower-war",
+            "orientation": "Landscape",
+            "game_link": "https://html5.gamedistribution.com/dd348529a0124d43b5e3ea12caf0774e/",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
