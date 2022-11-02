@@ -35,8 +35,8 @@
             "ad_int_interval" : 5,
             "score_rating_reward" : 5,
 
-            "orientation": "Landscape",
-            "game_link": "https://html5.gamedistribution.com/dd348529a0124d43b5e3ea12caf0774e/",
+            "orientation": "Portrait",
+            "game_link": "https://html5.gamedistribution.com/081b95d4edf74e89b26b9c9a58310b65/",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
