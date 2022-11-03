@@ -31,12 +31,12 @@
             "ad_link" : "https://www.kimp.io/gif-marketing/",
 
             "ad_score_amount" : 1,
-            "ad_game_minutes" : 20,
+            "ad_game_minutes" : 2,
             "ad_int_interval" : 5,
             "score_rating_reward" : 5,
 
             "orientation": "Portrait",
-            "game_link": "https://html5.gamedistribution.com/081b95d4edf74e89b26b9c9a58310b65/",
+            "game_link": "https://html5.gamedistribution.com/52f4fc2507214b74bb489fdc3b3accb8/",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
