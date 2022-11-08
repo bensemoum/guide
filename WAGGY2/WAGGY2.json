@@ -1,18 +1,18 @@
 {
     "ads" : [
         {
-            "demo" : "true",
+            "demo" : "false",
             "activate_ads" : "true",
             "activate_ads_game" : "true",
             
-            "network" : "is",
+            "network" : "admob",
 
             "one_signal" : "000000000",
             
-            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
-            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-            "admob_int": "ca-app-pub-3940256099942544/1033173712",
-            "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
+            "admob_ban": "ca-app-pub-5507746280102363/7729615589",
+            "admob_native" : "ca-app-pub-5507746280102363/8631633718",
+            "admob_int": "ca-app-pub-5507746280102363/2996163654",
+            "admob_rewarded": "ca-app-pub-5507746280102363/8913886505",
 
             "yandex_ban" : "R-M-DEMO-320x50",
             "yandex_native" : "R-M-DEMO-native-i",
@@ -33,7 +33,7 @@
             "ad_link" : "https://www.kimp.io/gif-marketing/",
 
             "ad_score_amount" : 1,
-            "ad_game_minutes" : 20,
+            "ad_game_minutes" : 3,
             "ad_int_interval" : 5,
             "score_rating_reward" : 5,
 
