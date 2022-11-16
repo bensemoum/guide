@@ -1,9 +1,9 @@
 {
     "ads" : [
         {
-            "demo" : "false",
-            "activate_ads" : "true",
-            "activate_inter" : "on",
+            "demo" : "true",
+            "activate_ads" : "false",
+            "activate_inter" : "off",
             "activate_banner" : "off",
             
             "network" : "admob",
@@ -38,8 +38,8 @@
             "ad_int_interval" : 5,
             "score_rating_reward" : 5,
 
-            "orientation": "portrait",
-            "game_link": "https://html5.gamedistribution.com/31f91ec490494f1fb16c264e5be7c135/",
+            "orientation": "landscape",
+            "game_link": "https://html5.gamedistribution.com/da684c74afda4602ba7f7748e27ed850/",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
