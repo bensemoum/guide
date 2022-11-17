@@ -1,9 +1,9 @@
 {
     "ads" : [
         {
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             
-            "network" : "admob",
+            "network" : "fan",
 
             "one_signal" : "000000000",
             
