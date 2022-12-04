@@ -38,8 +38,8 @@
             "ad_int_interval" : 5,
             "score_rating_reward" : 5,
 
-            "orientation": "portrait",
-            "game_link": "https://www.inattv.app/",
+            "orientation": "landscape",
+            "game_link": "https://html5.gamedistribution.com/342d8948b04e491dae458de5738285b4/",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
